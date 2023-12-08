@@ -3,7 +3,7 @@
         <img class="img-fluid rounded-circle" src="assets/img/moi.jpg" > 
         <h2>Célian Bedminster</h2>
         <div id = "logo" class ="social-links mt-3 text-center">
-            <a href="https://www.linkedin.com/in/celian-bedminster-906232268/" target="_blank" class="linkedin"><i class="bi bi-linkedin"></i></a>
+            <a href="https://www.linkedin.com/in/c%C3%A9lian-bedminster-7152b626a/" target="_blank" class="linkedin"><i class="bi bi-linkedin"></i></a>
             <a href="https://www.instagram.com/_c.lian/" target="_blank" class="instagram"><i class="bi bi-instagram"></i></a>
             <a href="https://t.snapchat.com/jYE6pJ9H" target="_blank" class="snapchat"><i class="bi bi-snapchat"></i></a>
             <a href="https://twitter.com/" target="_blank" class="twitter"><i class="bi bi-twitter"></i></a>
@@ -15,7 +15,7 @@
         </button>
         <div class="container-fluid">
             <div class="row collapse navbar-collapse" id="menu-millenuits">
-                    <ul class="navbar-nav nav nav-pills nav-flush flex-sm-column flex-row flex-nowrap">
+                    <ul class="navbar-nav nav nav-pills nav-flush flex-sm-column flex-row flex-nowrap mb-auto mx-auto">
                         <li class="nav-item">
                             <a href="#home" class="nav-link" title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Home">
                                 <i class="bi-house"></i>
@@ -44,7 +44,7 @@
                         <li class="nav-item">
                             <a href="#SituationPro" class="nav-link " title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Products">
                                 <i class="bi bi-briefcase "></i>
-                                <span>Situation professionnelles</span>
+                                <span>Situations professionnelles</span>
                             </a>
                         </li >
                         <li class="nav-item">

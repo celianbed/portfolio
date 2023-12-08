@@ -3,15 +3,18 @@
         <div class ="intro">
             <h1>Célian Bedminster</h1>
             <span>Je suis</span>
-            <span data-twreplace-charspeed="80" 
-                  data-twreplace-wordspeed="5000"
-                  data-twreplace='["étudiant","développeur"]'>
-                étudiant
+                <span data-twreplace-charspeed="80" 
+                      data-twreplace-wordspeed="5000"
+                      data-twreplace='["étudiant","développeur"]'>
+                    étudiant
+                </span>
             </span>
-
         </div>
         <div class="mt-4">
-            <a class="my-button" href="assets/cv/BedminsterCelian.pdf" download><span id="consulterPDF"></span> Télécharger mon CV</a>
+            <a class="my-button" href="assets/cv/BedminsterCelian.pdf" download>
+                <span id="toto">                 
+                </span>
+                Télécharger mon CV</a>
         </div>
         <div id="section-1">
             <a id="scroll-btn" href="#profil"></a>
@@ -19,14 +22,3 @@
     </div>
 </section>
 
-<script>
-
-   $(document).ready(function() {
-    $(document).on('click', function(event) {
-        alert($(this).attr("id"));
-        setAttribute('id','');
-      
-    });
-});
-
-</script>

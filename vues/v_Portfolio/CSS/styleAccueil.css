@@ -73,9 +73,9 @@ a.my-button span{
     background-repeat: no-repeat;
     background-size: contain;
     transform: rotate(0deg);
-    z-index: 80;
-}
+    z-index: 7;
 
+}
 a.my-button:hover{
     background-color: white;
 }
