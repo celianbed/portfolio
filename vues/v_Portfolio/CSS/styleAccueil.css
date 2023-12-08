@@ -146,7 +146,7 @@ a#scroll-btn:hover{
 }
 a#scroll-btn:after {
     position: absolute;
-    content: "A PROPOS";
+    content: "MON PROFIL";
     width: 12em;
     display: block;
     width: 12em;
