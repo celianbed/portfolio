@@ -19,7 +19,8 @@ section {
     position: relative;
     box-sizing: border-box;
     text-align: center;
-    padding-bottom: 50vh
+    padding-bottom: 50vh;
+    padding-top: 100px;
 
 }
 section.home .intro {
