@@ -7,9 +7,6 @@
     bottom: 0;
 
 
-
-
-
 }
 
 @media only screen and (max-height: 1567) {
@@ -31,9 +28,7 @@
     color: white;
     font-size: 25px;
     margin: 0;
-    -moz-text-align-last: center;
     text-align-last: center;
-    font-family: "Poppins", sans-serif;
     background-color:  #e65e61;
 
 

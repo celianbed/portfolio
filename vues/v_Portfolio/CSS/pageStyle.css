@@ -35,8 +35,19 @@ body{
     color: #fff;
     font-size: 50px;
 }
+.context h2{
+    color: white;
+}
 
-
+h1,
+h2 {
+    font-family: "Poppins", sans-serif;
+    line-height: 1.2;
+    margin-bottom: 1rem;
+    letter-spacing: 1px;
+    font-size: 5vh;
+   
+}
 .area{
     background: #4e54c8;
     width: 100%;

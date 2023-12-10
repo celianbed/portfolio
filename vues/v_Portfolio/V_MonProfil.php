@@ -5,12 +5,12 @@
         <div  id="pr">
             <div class="card shadow " id="myCardProfil">
                 <div class="row">
-                    <h3>Qui suis-je ?</h3>
                     <div class="col-md-6  my-auto ">
+                        <h3 class="text-center">Qui suis-je ?</h3>
                         <p>Je me présente, je suis Célian Bedminster j’ai actuellement 20 ans, étudiant en BTS SIO option SLAM.
                             Depuis petit l’informatique m’attire en tout point. Il était donc logique pour moi de m’orienter vers ce domaine pour en faire ma vie professionnelle.</p>
                         <div class="mt-4 ">
-                            <a class=" d-flex justify-content-center my-button" href="assets/cv/BedminsterCelian.pdf" target="_blank">
+                            <a id="cv" class=" d-flex justify-content-center my-button" href="assets/pdf/BedminsterCelian.pdf" target="_blank">
                                 Consulter mon CV</a>
                         </div>
                     </div>
@@ -57,7 +57,7 @@
                     </div>
                 </div>
                 <div class="col-md-4"> 
-                    <div class="cardC col-md-12" id="appli">
+                    <div class="cardC col-md-12" id="appli" >
                         <div class="row md-7">
                             <img class="img-fluid rounded-circle" src="assets/img/appli.png"  > 
                         </div>
@@ -67,9 +67,12 @@
                         </div>
                     </div>
                 </div>
-
-
-
+            </div>
+        </div>
+        <div class="tableauSynthèse">
+            <div class="mt-4 d-flex justify-content-center">
+                <a class=" d-flex justify-content-center my-button" href="assets/pdf/CélianTableauDeSynthèse.pdf" target="_blank">
+                    Consulter mon tableau de synthèse des réalisations professionnelles </a>
             </div>
         </div>
 </section>

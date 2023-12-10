@@ -11,7 +11,7 @@
             </span>
         </div>
         <div class="mt-4">
-            <a class="my-button" href="assets/cv/BedminsterCelian.pdf" download>
+            <a class="my-button" href="assets/pdf/BedminsterCelian.pdf" download>
                 <span id="toto">                 
                 </span>
                 Télécharger mon CV</a>

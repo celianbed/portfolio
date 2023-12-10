@@ -24,6 +24,7 @@
     min-height: 100vh;
     padding-top: 5vh
 }
+
 #pr{
     padding-bottom: 5vh
 }
@@ -79,7 +80,7 @@
 #mesCompetences #appli{
     
     background-color: #4e54c8;
-        color: white
+    color: white;
 }
 
 
@@ -96,5 +97,10 @@
     width: 80%;
     height: 80%;
 
+}
+
+a #id:hover{
+    color:white;
+    background-color: #4e54c8;
 }
 

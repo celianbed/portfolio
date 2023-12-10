@@ -67,4 +67,4 @@
 
 </div>
 <div id="copyright"><span>&copy; 2023 Célian Bedminster<br>
-        Designed by Célian Bedminster</span></div>
+      Fait main par Célian Bedminster</span></div>
