@@ -1,5 +1,4 @@
 <section id = "BTSSIO">
-       
         <div class = "container">
         <h2>A propos</h2>
         <div class="row">

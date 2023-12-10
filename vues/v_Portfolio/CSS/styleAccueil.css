@@ -1,34 +1,30 @@
-section.home {
-
-    padding-left:320px;
-    height: 100vh;
-    min-height: 100vh;
-
-}
-
-.align-items-center {
-    align-items: center !important;
-}
-
-.d-flex {
-    display: flex !important;
-}
 section {
 
     display: block;
     position: relative;
     box-sizing: border-box;
-    text-align: center;
-    padding-bottom: 50vh;
-    padding-top: 100px;
+    padding-bottom: 70vh;
+ 
 
 }
+
+section.home {
+
+    padding-left:320px;
+    height: 100vh;
+    min-height: 100vh;
+    
+
+}
+
+
 section.home .intro {
     margin: auto;
     max-width: 540px;
     max-height: 378px;
     text-align: center;
     position: relative;
+   
 }
 
 section.home .intro h1 {
@@ -75,7 +71,6 @@ a.my-button span{
     background-size: contain;
     transform: rotate(0deg);
     z-index: 7;
-
 }
 a.my-button:hover{
     background-color: white;
@@ -84,34 +79,20 @@ a.my-button:active{
     transform: scale(0.95);
 }
 
-body {
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    font-family: "Poppins", sans-serif;
-    font-size: 16px;
-    line-height: 1.618;
-}
-
 h1,
 h2 {
     font-family: "Poppins", sans-serif;
     line-height: 1.2;
     margin-bottom: 1rem;
     letter-spacing: 1px;
-}
-
-
-h2 {
     font-size: 5vh;
 }
-
 
 a#scroll-btn {
     position: absolute;
     height:3em;
     width: 2em;
     border: 0.2em solid #ffffff;
-
     bottom: 0;
     top : 90vh;
     border-radius: 3em;
@@ -131,15 +112,6 @@ a#scroll-btn:before {
     border-radius: 50%;
     animation: move-down 2s infinite;
 }
-@keyframes move-down {
-    80% {
-        opacity: 0.5;
-    }
-    100% {
-        transform: translateY(1.5em);
-        opacity: 0;
-    }
-}
 
 a#scroll-btn:hover{
     color: #e65e61;
@@ -158,7 +130,6 @@ a#scroll-btn:after {
     letter-spacing: 3px;
     font-weight: 600;
 }
-
 
 #section-1{
     padding-right: 10px

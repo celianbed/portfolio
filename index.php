@@ -17,7 +17,6 @@
 
     </head>
     <body class = "area">
-
         <header id = "header">
             <?php
             include 'vues/v_Portfolio/V_Nav.php';
