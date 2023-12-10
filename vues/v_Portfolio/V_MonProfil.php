@@ -5,9 +5,10 @@
         <div  id="pr">
             <div class="card shadow " id="myCardProfil">
                 <div class="row">
+                    <h3>Qui suis-je ?</h3>
                     <div class="col-md-6  my-auto ">
-                        Je me présente, je suis Célian Bedminster j’ai actuellement 20 ans, étudiant en BTS SIO option SLAM.
-                        Depuis petit l’informatique m’attire en tout point. Il était donc logique pour moi de m’orienter vers ce domaine pour en faire ma vie professionnelle.
+                        <p>Je me présente, je suis Célian Bedminster j’ai actuellement 20 ans, étudiant en BTS SIO option SLAM.
+                            Depuis petit l’informatique m’attire en tout point. Il était donc logique pour moi de m’orienter vers ce domaine pour en faire ma vie professionnelle.</p>
                         <div class="mt-4 ">
                             <a class=" d-flex justify-content-center my-button" href="assets/cv/BedminsterCelian.pdf" target="_blank">
                                 Consulter mon CV</a>
@@ -30,12 +31,45 @@
                 </div>
             </div>
         </div>
-        <div id='mesCompétences'>
+        <div id='mesCompetences'>
             <h2 id="text-start">Mes Compétences</h2><br><br>
-            <div class="card shadow " id="myCardCompetences">
-                test
+            <div class ="row">
+                <div class="col-md-4"> 
+                    <div class="cardC col-md-12"id="dev"  >
+                        <div class="row md-7">
+                            <img class="img-fluid rounded-circle" src="assets/img/html.png" > 
+                        </div>
+                        <div class="row md-5 align-items-center d-flex" >
+                            <h3>Développement web</h3>
+                            <p>Conception et programmation d'un site web en <b>HTML/CSS/JS/PHP</b> ou via un <b>CMS</b></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4"> 
+                    <div class="cardC col-md-12" id="bdd">
+                        <div class="row md-7">
+                            <img class="img-fluid rounded-circle" src="assets/img/bdd.png"  > 
+                        </div>
+                        <div class="row md-5">
+                            <h3>Gestion de BDD</h3>
+                            <p>Stocker, manipuler et gérer les données dans une base de données via <b>MySQL et MariaDB</b>.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4"> 
+                    <div class="cardC col-md-12" id="appli">
+                        <div class="row md-7">
+                            <img class="img-fluid rounded-circle" src="assets/img/appli.png"  > 
+                        </div>
+                        <div class ="row md-5">
+                            <h3>Développement Applicatif</h3>
+                            <p> Conception et programmation de logiciel métier avec <b>Java /C#/ Wlangage</b></p>
+                        </div>
+                    </div>
+                </div>
+
+
+
             </div>
-            
         </div>
-    </div>
 </section>

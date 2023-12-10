@@ -23,7 +23,8 @@
     border: 5px solid white;
     height: 140px
    
-  
+   
+
 
 }
 #header .profil {
@@ -151,12 +152,12 @@
 
 #header .profil .twitter:hover{
 
-    color: #1DA1F2;
+    color: black;
 
 }
 #header .profil .instagram:hover{
 
-    color: #F56040;
+    color: rgb(241,42,123)
 
 }
 
