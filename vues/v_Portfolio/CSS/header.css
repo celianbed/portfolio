@@ -17,13 +17,13 @@
         overflow: scroll
     }
 }
-#header .profil img{
+ #header img{
     margin: 15px auto;
-    display: block;
-    width: 100px;
+    width: 120px;
     border: 5px solid white;
-    height: 115px;
-
+    height: 140px
+   
+  
 
 }
 #header .profil {

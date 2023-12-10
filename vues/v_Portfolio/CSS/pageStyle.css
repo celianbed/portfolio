@@ -1,12 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Exo:400,700');
 
 
-@media allscreen and (min-width: 800px) and (min-height:800px) {
-    section
-    {
-        padding-top: 50px;
-    }
+section {
+
+    display: block;
+    position: relative;
+    box-sizing: border-box;
+    padding-bottom: 70vh;
+
 }
+
 
 body{
     font-family: "Poppins", sans-serif;
@@ -16,8 +19,8 @@ body{
     text-align: center!important;
 }
 #text-left{
-     text-align: left;
-    
+    text-align: left;
+
 }
 
 .context {
