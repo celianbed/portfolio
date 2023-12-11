@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible">
-        <meta name="viewport" content="width=device-width, initial-scale=0.86, maximum-scale=5.0, minimum-scale=0.86">        <title>Mon portfolio</title>
+        <title>Mon portfolio</title>
         <link rel="stylesheet" href="vues/v_Portfolio/CSS/styleAccueil.css">
         <link rel="stylesheet" href="vues/v_Portfolio/CSS/pageStyle.css">
         <link rel="stylesheet" href="vues/v_Portfolio/CSS/header.css">

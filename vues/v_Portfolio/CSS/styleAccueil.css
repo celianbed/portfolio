@@ -68,8 +68,8 @@ a.my-button:hover{
 }
 
 a #cv:hover{
-    color:white;
-    background-color: #4e54c8;
+    color:white!important;
+    background-color: #4e54c8!important;
 }
 a.my-button:active{
     transform: scale(0.95);

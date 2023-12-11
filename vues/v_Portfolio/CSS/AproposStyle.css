@@ -22,7 +22,7 @@
     padding-left:320px;
     height: 100vh;
     min-height: 100vh;
-    padding-top: 5vh
+    padding-top: 12vh
 }
 
 #pr{
@@ -78,7 +78,7 @@
 }
 
 #mesCompetences #appli{
-    
+
     background-color: #4e54c8;
     color: white;
 }
@@ -103,4 +103,24 @@ a #id:hover{
     color:white;
     background-color: #4e54c8;
 }
+.my-button2{
+    background-color: #e65e61;
+    color: #fff;
+    font-family: Trebuchet MS;
+    font-size: 19px;
+    font-weight: 800;
+    font-style: normal;
+    text-decoration: none;
+    padding: 13px 15px;
+    border: 0px solid #000;
+    border-radius: 100px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 7;
+}
 
+.my-button2:hover{
+    color:white;
+    background-color: #4e54c8;
+}

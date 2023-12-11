@@ -1,6 +1,5 @@
 <section id="profil" class="align-items-center mn-3 col-sm-auto">
     <div class="container">
-
         <h2 id="text-start">Mon Profil</h2><br><br>
         <div  id="pr">
             <div class="card shadow " id="myCardProfil">
@@ -10,7 +9,7 @@
                         <p>Je me présente, je suis Célian Bedminster j’ai actuellement 20 ans, étudiant en BTS SIO option SLAM.
                             Depuis petit l’informatique m’attire en tout point. Il était donc logique pour moi de m’orienter vers ce domaine pour en faire ma vie professionnelle.</p>
                         <div class="mt-4 ">
-                            <a id="cv" class=" d-flex justify-content-center my-button" href="assets/pdf/BedminsterCelian.pdf" target="_blank">
+                            <a id="cv" class=" d-flex justify-content-center my-button2" href="assets/pdf/BedminsterCelian.pdf" target="_blank">
                                 Consulter mon CV</a>
                         </div>
                     </div>
@@ -75,4 +74,5 @@
                     Consulter mon tableau de synthèse des réalisations professionnelles </a>
             </div>
         </div>
+    </div>
 </section>

@@ -34,17 +34,10 @@
                                 <span>BTS SIO</span>
                             </a>
                         </li>
-                         <li class="nav-item">
-                            <a href="#Docs" class="nav-link" title="" data-bs-toggle="tooltip"data-bs-placement="right" data-bs-original-title="Building">
-                                <i class="bi bi-book"></i>
-                                <span>Documentations</span>
-                            </a>
-
-                        </li>
                         <li class="nav-item">
                             <a href="#SituationPro" class="nav-link " title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Products">
                                 <i class="bi bi-briefcase "></i>
-                                <span>Situations professionnelles</span>
+                                <span>Projets et Stages</span>
                             </a>
                         </li >
                         <li class="nav-item">

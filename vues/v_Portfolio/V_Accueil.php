@@ -1,4 +1,4 @@
-<section id ="home" class="home d-flex align-items-center mn-3 col-sm-auto"  data-bs-spy="scroll" data-bs-target="#navbar-example3" data-bs-smooth-scroll="true" tabindex="0">
+<section id ="home" class="home d-flex align-items-center mn-3 col-sm-auto col-xl-auto"  data-bs-spy="scroll" data-bs-target="#navbar-example3" data-bs-smooth-scroll="true" tabindex="0">
     <div class = "container intro align-items-center"  >
         <div class ="intro" >
             <h1>Célian Bedminster</h1>
