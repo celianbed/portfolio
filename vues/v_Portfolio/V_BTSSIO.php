@@ -35,7 +35,7 @@
                         <span> Solution d’infrastructure, systèmes et réseaux</span>
                     </div>
                     <br>
-                    <div class="description  text-justify">
+                    <div class="description text-justify">
                         <p>
                             L’option Solution d’infrastructure, systèmes et réseaux forme des professionnels des réseaux et équipements informatiques (installation, maintenance, sécurité). En sortant d’un BTS SIO SISR, vous serez capables de gérer et d’administrer le réseau d’une société et d’assurer sa sécurité et sa maintenance.
                             Les techniciens supérieurs en informatique option SISR, peuvent accéder aux métiers de : </p>
@@ -48,7 +48,6 @@
                             <li>Technicien de production</li>
                             <li>Technicien micro et réseaux</li>
                         </ul>
-
                     </div>
                 </div>
             </div>

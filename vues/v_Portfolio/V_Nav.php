@@ -35,7 +35,7 @@
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a href="#SituationPro" class="nav-link " title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Products">
+                            <a href="#StagesProjets" class="nav-link " title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Products">
                                 <i class="bi bi-briefcase "></i>
                                 <span>Projets et Stages</span>
                             </a>

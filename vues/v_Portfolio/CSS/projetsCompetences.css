@@ -1,0 +1,12 @@
+#StagesProjets {
+    padding-left:320px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20vh
+
+}
+
+#StagesProjets #btnCard{
+    background-color: #4e54c8
+}

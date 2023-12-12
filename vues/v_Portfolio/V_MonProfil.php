@@ -1,4 +1,4 @@
-<section id="profil" class="align-items-center mn-3 col-sm-auto">
+ <section id="profil" class="align-items-center mn-3 col-sm-auto">
     <div class="container">
         <h2 id="text-start">Mon Profil</h2><br><br>
         <div  id="pr">
