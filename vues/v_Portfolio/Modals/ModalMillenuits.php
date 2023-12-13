@@ -38,41 +38,41 @@
                 <div class="row img">
                     <h6 class="text-center"><u>Pages d'accueil et de connexion</u></label></h6>
                     <div class="col-md-6">
-                        <img src="assets/img/Modals/MILLENUITAccueil.png" width="1867" height="1302" alt="AccueilMillenuit"/>
+                        <a href="assets/img/Modals/MILLENUITAccueil.png"  width=15% height=15%><img src="assets/img/Modals/MILLENUITAccueil.png" width="1867" height="1302" alt="AccueilMillenuit"/></a>
                     </div>
                     <div class="col-md-6">
-                        <img src="assets/img/Modals/MILLENUITConnexion.png" width="2001" height="1201" alt="ConnexionMillenuit"/><br>
+                        <a href="assets/img/Modals/MILLENUITConnexion.png"  width=15% height=15%><img src="assets/img/Modals/MILLENUITConnexion.png" width="2001" height="1201" alt="ConnexionMillenuit"/></a><br>
                     </div>
                 </div><br><br>
                 <div class="row">
                     <div class='col-md-6'>
                         <h6 class = "text-center"><u>Une fois connecté</u></h6>
-                        <img src="assets/img/Modals/MILLENUITConnecte.png" width="1800" height="1276" alt="ConnectéMillenuit"/><br>
+                        <a href="assets/img/Modals/MILLENUITConnecte.png"  width=15% height=15%> <img src="assets/img/Modals/MILLENUITConnecte.png" width="1800" height="1276" alt="ConnectéMillenuit"/></a><br>
                     </div>
                     <div class='col-md-6'>
                         <h6 class = "text-center"><u>Page pour ajouter un distributeur</u></h6>
-                        <img src="assets/img/Modals/MILLENUITAjouterDist.png" width="1808" height="965" alt="AjouterDistributeur"/><p>
+                        <a href="assets/img/Modals/MILLENUITAjouterDist.png"  width=15% height=15%><img src="assets/img/Modals/MILLENUITAjouterDist.png" width="1808" height="965" alt="AjouterDistributeur"/></a><p>
                         <p>J'ai réalisé cette page web pour qu'un commercial puisse ajouter un nouveau distributeur selon les informations demandées. 
                             Des vérifications coté client et serveurs ont étaient réalisée pour éviter une mauvaise saisie ou une saisie de code frauduleux.</p>
                     </div>
                 </div><br><br>
-                <h5><u>La base de données : </u></h5><br><br>
+                <h5><u>La base de données : </u></h5><br>
                 <div class="bdd">
-                    <div class="row">
+                    <div class="row ">
+                        <p class="text-start mb-5">L'application web ayant différentes choses à stocker et enregistré il lui fallait une base de données. <br>
+                            Nous avons donc réalisé une base de données MySql, grâce à PhPMyAdmin, avec les données<br> nécessaire au bon fonctionnement de l'application, pour alimenter les listes ect..<br>
+                            Nous avions donc différentes tables avec leurs colonnes bien définit auparavant.</p>
                         <div class="col-md-6">
-                            <p>L'application web ayant différentes choses à stocker et enregistré il lui fallait une base de données. 
-                                Nous avons donc réalisé une base de données MySql, grâce à PhPMyAdmin, avec les données nécessaire au bon fonctionnement de l'application, pour alimenter les listes ect..<br>
-                                Nous avions donc différentes tables avec différentes colonnes : </p>
-                            <img src="assets/img/Modals/MILLENUITbdd.png" width="1070" height="660" alt="alt"/>
+                            <h6 class = "text-center"><u>Les différentes tables de la base de donnée</u></h6>
+                            <a href="assets/img/Modals/MILLENUITbdd.png"  width=15% height=15%><img src="assets/img/Modals/MILLENUITbdd.png" width="1070" height="660" alt="alt"/></a>
                         </div>
                         <div class="col-md-6">
-                            
-                        </div>
 
+                            <h6 class = "text-center"><u>Le schéma relationnel de la base de donnée</u></h6>
+                            <a href="assets/img/Modals/MILLENUITSchBDD.png"  width=15% height=15%><img src="assets/img/Modals/MILLENUITSchBDD.png" width="2125" height="1098" alt="alt"/></a>
+                        </div>
                     </div>
-
                 </div>
-
             </div>
         </div>     
     </div>

@@ -9,7 +9,6 @@
 #StagesProjets #btnCard{
     background-color: #4e54c8;
     border: #4e54c8;
-    margin: auto;
     display: block;
     margin-top: 2vh
 
@@ -41,6 +40,21 @@
     text-align: center
 }
 
-.card #test{
-    min-height: 19.4vh
+.card #btnCard{
+    
+}
+
+#StagesProjets #btnCard2{
+    background-color: #4e54c8;
+    border: #4e54c8;
+    display: block;
+    margin-top: 11.7vh
+
+
+}
+#StagesProjets #btnCard2:hover{
+    background-color: #e65e61;
+    border: #e65e61;
+
+
 }
