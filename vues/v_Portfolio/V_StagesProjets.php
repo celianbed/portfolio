@@ -12,8 +12,8 @@
             </div>
             <div class="card col-md-4" style="width: 18rem;">
                 <img src="assets/img/ecocert.png" class="card-img-top" alt="millenuitProjet">
-                <div class="card-body">
-                    <h5 class="card-title">MILLENUIT </h5>
+                <div class="card-body align-text-bottom">
+                    <h5 class="card-title">ECOCERT CERTIFICAT </h5>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     <a href="#" id="btnCard" class="btn btn-primary">En savoir plus</a>
                 </div>
