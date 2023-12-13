@@ -21,7 +21,7 @@
                         <li>les particuliers. </li>
                     </ul>
                     <p>Sa force est de travailler sur des textiles innovants et écologiques (antiacariens, antibactériens, Oeko-Tex...). </p>
-                </div>
+                </div><br>
                 <div class="activités">
                     <h5><u>Description du projet et activités effectuées : </u></h5><br>
                     <p>
@@ -33,12 +33,47 @@
                         Elle comprenait une page d'accueil,une page de connexion ainsi que des catégories clairement affichées pour faciliter la navigation. 
 
                     </p>
-                   
+
+                </div><br><br>
+                <div class="row img">
+                    <h6 class="text-center"><u>Pages d'accueil et de connexion</u></label></h6>
+                    <div class="col-md-6">
+                        <img src="assets/img/Modals/MILLENUITAccueil.png" width="1867" height="1302" alt="AccueilMillenuit"/>
+                    </div>
+                    <div class="col-md-6">
+                        <img src="assets/img/Modals/MILLENUITConnexion.png" width="2001" height="1201" alt="ConnexionMillenuit"/><br>
+                    </div>
+                </div><br><br>
+                <div class="row">
+                    <div class='col-md-6'>
+                        <h6 class = "text-center"><u>Une fois connecté</u></h6>
+                        <img src="assets/img/Modals/MILLENUITConnecte.png" width="1800" height="1276" alt="ConnectéMillenuit"/><br>
+                    </div>
+                    <div class='col-md-6'>
+                        <h6 class = "text-center"><u>Page pour ajouter un distributeur</u></h6>
+                        <img src="assets/img/Modals/MILLENUITAjouterDist.png" width="1808" height="965" alt="AjouterDistributeur"/><p>
+                        <p>J'ai réalisé cette page web pour qu'un commercial puisse ajouter un nouveau distributeur selon les informations demandées. 
+                            Des vérifications coté client et serveurs ont étaient réalisée pour éviter une mauvaise saisie ou une saisie de code frauduleux.</p>
+                    </div>
+                </div><br><br>
+                <h5><u>La base de données : </u></h5><br><br>
+                <div class="bdd">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <p>L'application web ayant différentes choses à stocker et enregistré il lui fallait une base de données. 
+                                Nous avons donc réalisé une base de données MySql, grâce à PhPMyAdmin, avec les données nécessaire au bon fonctionnement de l'application, pour alimenter les listes ect..<br>
+                                Nous avions donc différentes tables avec différentes colonnes : </p>
+                            <img src="assets/img/Modals/MILLENUITbdd.png" width="1070" height="660" alt="alt"/>
+                        </div>
+                        <div class="col-md-6">
+                            
+                        </div>
+
+                    </div>
+
                 </div>
-                <div class='img'>
-                    <img src="assets/img/Modals/MILLENUITAccueil.png" width="1867" height="1302" alt="AccueilMillenuit"/>
-                </div>
-            </div>     
-        </div>
+
+            </div>
+        </div>     
     </div>
 </div>

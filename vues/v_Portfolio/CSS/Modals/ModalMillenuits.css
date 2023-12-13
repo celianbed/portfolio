@@ -1,9 +1,35 @@
 .modal-dialog  #exampleModalLabel{
     color:#000;
+
 }
 
 .modal-dialog img{
+
+    width:  600px;
+    height: 350px;
+}
+
+.modal .modal-dialog .modal-content{
+    background: #f6f8fd;
+    width: 1400px
+}
+
+.modal::-webkit-scrollbar {
+    width: 12px; /* width of the entire scrollbar */
+}
+
+.modal::-webkit-scrollbar-track {
+    background:white; /* color of the tracking area */
+}
+
+.modal::-webkit-scrollbar-thumb {
+    background-color: #4e54c8; /* color of the scroll thumb */
+    border-radius: 20px; /* roundness of the scroll thumb */
+    border: 3px solid white; /* creates padding around scroll thumb */
+}
+
+
+.modal {
     
-    width:  500px;
-    height: 300px;
+    align-items: center;
 }
