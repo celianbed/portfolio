@@ -2,7 +2,7 @@
     <div class="container">
         <h2 id="text-start">Mon Profil</h2><br><br>
         <div  id="pr">
-            <div class="card shadow " id="myCardProfil">
+            <div class="cardP shadow " id="myCardProfil">
                 <div class="row">
                     <div class="col-md-6  my-auto ">
                         <h3 class="text-center">Qui suis-je ?</h3>
