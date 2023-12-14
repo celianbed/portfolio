@@ -1,33 +1,18 @@
+
 section.home {
 
     padding-left:320px;
     height: 100vh;
     min-height: 100vh;
-
+   
+    
 }
 
-.align-items-center {
-    align-items: center !important;
-}
-
-.d-flex {
-    display: flex !important;
-}
-section {
-
-    display: block;
-    position: relative;
-    box-sizing: border-box;
-    text-align: center;
-    padding-bottom: 50vh
-
-}
 section.home .intro {
-    margin: auto;
     max-width: 540px;
     max-height: 378px;
-    text-align: center;
-    position: relative;
+
+   
 }
 
 section.home .intro h1 {
@@ -36,12 +21,11 @@ section.home .intro h1 {
 
 section.home .container {
     width: 100%;
-    padding-right: auto;
-    padding-left: auto;
     margin-right: auto;
     margin-left: auto;
     max-width: 1080px;
-    padding-top: 40vh
+ 
+    
 
 }
 section.home .intro span {
@@ -74,35 +58,20 @@ a.my-button span{
     background-size: contain;
     transform: rotate(0deg);
     z-index: 7;
-
 }
 a.my-button:hover{
     background-color: white;
+    color:#4e54c8;
+}
+
+a #cv:hover{
+    color:white!important;
+    background-color: #4e54c8!important;
 }
 a.my-button:active{
     transform: scale(0.95);
 }
 
-body {
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    font-family: "Poppins", sans-serif;
-    font-size: 16px;
-    line-height: 1.618;
-}
-
-h1,
-h2 {
-    font-family: "Poppins", sans-serif;
-    line-height: 1.2;
-    margin-bottom: 1rem;
-    letter-spacing: 1px;
-}
-
-
-h2 {
-    font-size: 5vh;
-}
 
 
 a#scroll-btn {
@@ -110,11 +79,10 @@ a#scroll-btn {
     height:3em;
     width: 2em;
     border: 0.2em solid #ffffff;
-
     bottom: 0;
     top : 90vh;
     border-radius: 3em;
-    z-index: 8
+    z-index: 8; 
 }
 
 a#scroll-btn:before {
@@ -130,22 +98,10 @@ a#scroll-btn:before {
     border-radius: 50%;
     animation: move-down 2s infinite;
 }
-@keyframes move-down {
-    80% {
-        opacity: 0.5;
-    }
-    100% {
-        transform: translateY(1.5em);
-        opacity: 0;
-    }
-}
 
-a#scroll-btn:hover{
-    color: #e65e61;
-}
 a#scroll-btn:after {
     position: absolute;
-    content: "A PROPOS";
+    content: "MON PROFIL";
     width: 12em;
     display: block;
     width: 12em;
@@ -158,9 +114,8 @@ a#scroll-btn:after {
     font-weight: 600;
 }
 
-
-#section-1{
-    padding-right: 10px
+#section-1 a{
+    background-color: red;
 }
 
 
