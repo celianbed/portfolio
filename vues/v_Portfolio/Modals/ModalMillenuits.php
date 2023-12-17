@@ -22,8 +22,8 @@
                     </ul>
                     <p>Sa force est de travailler sur des textiles innovants et écologiques (antiacariens, antibactériens, Oeko-Tex...). </p>
                 </div><br>
-                <div class="activités">
-                    <h5><u>Description du projet et activités effectuées : </u></h5><br>
+                <div class="description">
+                    <h5><u>Description du projet : </u></h5><br>
                     <p>
                         En première année, j'ai réalisé un projet appelé "Mille Nuits", qui a été ma première expérience en PHP. 
                         Il s'agissait d'une application Web qui permetait au commerciaux d'assurer un meilleur suivi des visites
@@ -31,45 +31,51 @@
                         communication et mieux répartir les budgets consacrés à l'activité de représentation.<br><br>
                         L'interface du site était conçue pour offrir aux utilisateurs une expérience utilisateur agréable et intuitive. 
                         Elle comprenait une page d'accueil,une page de connexion ainsi que des catégories clairement affichées pour faciliter la navigation. 
-
                     </p>
-
-                </div><br><br>
-                <div class="row img">
-                    <h6 class="text-center"><u>Pages d'accueil et de connexion</u></label></h6>
-                    <div class="col-md-6">
-                        <a href="assets/img/Modals/MILLENUITAccueil.png"  width=15% height=15%><img src="assets/img/Modals/MILLENUITAccueil.png" width="1867" height="1302" alt="AccueilMillenuit"/></a>
+                </div><br>  
+                <div class="EnvDev">
+                    <h5><u>Environnement de développement :     </u></h5><br>
+                    <ul>
+                        <li><b>Front-end : </b> HTML/CSS ainsi que le FrameWork Bootstrap 5 </li>
+                        <li><b>Back-End : </b>PHP</li>                     
+                        <li><b>Données : </b>MariaDB géré avec PhpMyAdmin</li>                      
+                    </ul><br>
+                    <div class="img">      
+                        <img src="assets/img/Modals/MILLENUITbootstrap.png"  alt="bootstrap icone">
+                        <img src="assets/img/Modals/MILLENUITjquery.png"  alt="bootstrap icone">
+                        <img src="assets/img/Modals/MILLENUITMariaDB.png" alt="bootstrap icone">
+                        <img src="assets/img/Modals/MILLENUITPHP.png"  alt="bootstrap icone"> 
                     </div>
-                    <div class="col-md-6">
-                        <a href="assets/img/Modals/MILLENUITConnexion.png"  width=15% height=15%><img src="assets/img/Modals/MILLENUITConnexion.png" width="2001" height="1201" alt="ConnexionMillenuit"/></a><br>
-                    </div>
-                </div><br><br>
-                <div class="row">
-                    <div class='col-md-6'>
-                        <h6 class = "text-center"><u>Une fois connecté</u></h6>
-                        <a href="assets/img/Modals/MILLENUITConnecte.png"  width=15% height=15%> <img src="assets/img/Modals/MILLENUITConnecte.png" width="1800" height="1276" alt="ConnectéMillenuit"/></a><br>
-                    </div>
-                    <div class='col-md-6'>
-                        <h6 class = "text-center"><u>Page pour ajouter un distributeur</u></h6>
-                        <a href="assets/img/Modals/MILLENUITAjouterDist.png"  width=15% height=15%><img src="assets/img/Modals/MILLENUITAjouterDist.png" width="1808" height="965" alt="AjouterDistributeur"/></a><p>
-                        <p>J'ai réalisé cette page web pour qu'un commercial puisse ajouter un nouveau distributeur selon les informations demandées. 
-                            Des vérifications coté client et serveurs ont étaient réalisée pour éviter une mauvaise saisie ou une saisie de code frauduleux.</p>
-                    </div>
-                </div><br><br>
-                <h5><u>La base de données : </u></h5><br>
-                <div class="bdd">
-                    <div class="row ">
-                        <p class="text-start mb-5">L'application web ayant différentes choses à stocker et enregistré il lui fallait une base de données. <br>
-                            Nous avons donc réalisé une base de données MySql, grâce à PhPMyAdmin, avec les données<br> nécessaire au bon fonctionnement de l'application, pour alimenter les listes ect..<br>
-                            Nous avions donc différentes tables avec leurs colonnes bien définit auparavant.</p>
-                        <div class="col-md-6">
-                            <h6 class = "text-center"><u>Les différentes tables de la base de donnée</u></h6>
-                            <a href="assets/img/Modals/MILLENUITbdd.png"  width=15% height=15%><img src="assets/img/Modals/MILLENUITbdd.png" width="1070" height="660" alt="alt"/></a>
+                </div><br>
+                <div class="BDD">
+                    <h5><u>La base de données : </u></h5><br>
+                    <p>Pour créer et gérer les données de l'application, nous avons utilisé une base de données SQL.
+                        La modélisation de la base de données a été réalisée de manière à stocker les informations pertinentes pour chaque informations, 
+                        telles que les distributeurs, les commerciaux, ou encore les produits proposés. Nous avions un début de script de base de donnée 
+                        mais il nous a fallut l'améliorer
+                    </p>
+                    <div class="row mb-7 d-flex justify-content-center">
+                        <div class="col-md-3">
+                            <div class="mt-4 d-flex justify-content-center">
+                                <a class=" d-flex justify-content-center my-button" href="assets/pdf/ModalsPDF/MIILENUITDocTechniqueBDD.pdf" target="_blank">
+                                    Voir l'analyse de l'évolution&nbsp;<i class="bi bi-box-arrow-up-right"></i></a> 
+                            </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-4">
+                            <div class="mt-4 d-flex justify-content-center">
+                                <a class=" d-flex justify-content-center my-button" href="assets/img/Modals/MILLENUITSchemaBDD.png">
+                                    Voir le nouveau schéma relationnel&nbsp;<span class="bi bi-box-arrow-up-right"></span></a> 
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tableau">
 
-                            <h6 class = "text-center"><u>Le schéma relationnel de la base de donnée</u></h6>
-                            <a href="assets/img/Modals/MILLENUITSchBDD.png"  width=15% height=15%><img src="assets/img/Modals/MILLENUITSchBDD.png" width="2125" height="1098" alt="alt"/></a>
+                        <div class="mt-4 d-flex justify-content-center">
+                            <a onclick="changerTexteEtIcone()"class=" d-flex justify-content-center my-button" id="tab" type="button" data-bs-toggle="collapse" data-bs-target="#competences" aria-expanded="false" aria-controls="collapseExample">
+                                <i class="bi bi-chevron-down"></i>&nbsp;Voir les compétences mobilisées</a>
+                        </div>   
+                        <div class="collapse" id="competences">
+                            <?php include 'Tableau/Tableau.php'; ?>
                         </div>
                     </div>
                 </div>
@@ -77,3 +83,23 @@
         </div>     
     </div>
 </div>
+<!-- 
+<script>
+
+    function changerTexteEtIcone() {
+        
+        var bouton = document.getElementById('tab');
+
+        if (bouton.innerHTML === 'Voir les compétences mobilisées') {
+            bouton.innerHTML = 'Cacher les compétences mobilisées';
+            bouton.prepend( <i class="bi bi-chevron-down"></i>);
+            // Remplacez 'votre_icone' par la classe de votre icône, par exemple 'fa fa-icon' si vous utilisez Font Awesome
+         
+        } else {
+            bouton.innerHTML = 'Cacher les compétences mobilisées';
+            bouton.prepend( <i class="bi bi-chevron-right"></i>)
+        }
+    }
+</script>
+
+comment -->

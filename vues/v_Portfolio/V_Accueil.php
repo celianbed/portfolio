@@ -12,9 +12,9 @@
 
             <div class="mt-4">
                 <a class="my-button" href="assets/pdf/BedminsterCelian.pdf" download>
-                    <span id="toto">                 
+                    <span class="bi bi-download">               
                     </span>
-                    Télécharger mon CV</a>
+                    &nbsp;Télécharger mon CV</a>
             </div>
             <div id="section-1 d-flex justify-content-evenly">
                 <a id="scroll-btn" href="#profil"></a>

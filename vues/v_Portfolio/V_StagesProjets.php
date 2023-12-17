@@ -32,6 +32,6 @@
             </div>
         </div>
         <?php include 'Modals/ModalMillenuits.php'; ?>
-
     </div>
+
 </section>
