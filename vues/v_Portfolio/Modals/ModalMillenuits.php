@@ -54,11 +54,11 @@
                         telles que les distributeurs, les commerciaux, ou encore les produits proposés. Nous avions un début de script de base de donnée 
                         mais il nous a fallut l'améliorer
                     </p>
-                    <div class="row mb-7 d-flex justify-content-center">
-                        <div class="col-md-3">
+                    <div class="row mb-8 d-flex justify-content-center">
+                        <div class="col-md-4">
                             <div class="mt-4 d-flex justify-content-center">
                                 <a class=" d-flex justify-content-center my-button" href="assets/pdf/ModalsPDF/MIILENUITDocTechniqueBDD.pdf" target="_blank">
-                                    Voir l'analyse de l'évolution&nbsp;<i class="bi bi-box-arrow-up-right"></i></a> 
+                                    Analyse de l'évolution de la bdd&nbsp;<i class="bi bi-box-arrow-up-right"></i></a> 
                             </div>
                         </div>
                         <div class="col-md-4">
@@ -68,6 +68,11 @@
                             </div>
                         </div>
                     </div>
+                    <div class="Mission">
+                        <h5><u>Les missions : </u></h5><br>
+                        <p>Afin de mener à bien le projet nous devions donner des livrables à des dates précises. Nous nous sommes partagé les différentes tâches à réaliser dans chacun des livrables.
+                        </p>
+                    </div><br>
                     <div class="tableau">
 
                         <div class="mt-4 d-flex justify-content-center">
@@ -79,6 +84,7 @@
                         </div>
                     </div>
                 </div>
+
             </div>
         </div>     
     </div>

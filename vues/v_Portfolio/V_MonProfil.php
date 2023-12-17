@@ -1,4 +1,4 @@
- <section id="profil" class="align-items-center mn-3 col-sm-auto">
+<section id="profil" class="align-items-center mn-3 col-sm-auto">
     <div class="container">
         <h2 id="text-start">Mon Profil</h2><br><br>
         <div  id="pr">
@@ -16,15 +16,15 @@
                     <div class="col-md-6" id="progessbar">
                         <p> Programmation :</p>
                         <div class="progress">
-                            <div class="progress-bar" id="colorbar" role="progressbar" style="width: 80%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">80%</div>
+                            <div class="progress-bar" id="colorbar" role="progressbar"  aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
                         </div><br>
                         <p> Réseau :</p>
                         <div class="progress">
-                            <div class="progress-bar"  id="colorbar" role="progressbar" style="width: 45%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">45%</div>
+                            <div class="progress-bar"  id="colorbar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100">55%</div>
                         </div><br>
                         <p> Base de données :</p>
                         <div class="progress">
-                            <div class="progress-bar"  id="colorbar" role="progressbar" style="width: 75%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">75%</div>
+                            <div class="progress-bar"  id="colorbar" role="progressbar"  aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">75%</div>
                         </div><br>
                     </div>
                 </div>
@@ -76,3 +76,19 @@
         </div>
     </div>
 </section>
+<script>
+    var delay = 500;
+    $(".progress-bar").each(function (i) {
+        $(this).delay(delay * i).animate({width: $(this).attr('aria-valuenow') + '%'}, delay);
+
+        $(this).prop('Counter', 0).animate({
+            Counter: $(this).text()
+        }, {
+            duration: delay,
+            easing: 'swing',
+            step: function (now) {
+                $(this).text(Math.ceil(now) + '%');
+            }
+        });
+    });
+</script>
