@@ -36,10 +36,12 @@
         </div>
         <div class="ProjetPerso">
             <h2 id="text-start">Mes projets</h2><br><br>
-            <img src="assets/img/Logo_mille_nuits.png" class="card-img-top" alt="millenuitProjet">
-            <div class="card-body">
-                <h5 class="card-title">Génerateur de mot de passe </h5>
-                <a data-bs-target="#staticBackdrop" data-bs-toggle="modal" id="btnCard" class="btn btn-primary ">En savoir plus</a>
+            <div class="card">
+                <img src="assets/img/Logo_mille_nuits.png" class="card-img-top" alt="millenuitProjet">
+                <div class="card-body">
+                    <h5 class="card-title">Génerateur de mot de passe </h5>
+                    <a data-bs-target="#staticBackdrop" data-bs-toggle="modal" id="btnCard" class="btn btn-primary ">En savoir plus</a>
+                </div>
             </div>
         </div>
     </div>
