@@ -2,11 +2,8 @@
 
 
 section {
-
-    display: block;
     position: relative;
     box-sizing: border-box;
-
 
 }
 
@@ -69,3 +66,4 @@ body::-webkit-scrollbar-thumb {
     border-radius: 20px; /* roundness of the scroll thumb */
     border: 3px solid white; /* creates padding around scroll thumb */
 }
+

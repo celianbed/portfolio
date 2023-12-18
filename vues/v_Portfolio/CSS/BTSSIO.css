@@ -1,12 +1,15 @@
 #BTSSIO {
     padding-left:320px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding-top: 20vh
+    padding-top: 15vh;
+    min-height: 100vh;
 
 }
 
+@media (max-width: 1920px){
+    #BTSSIO{
+        padding-top: 8vh;
+    }
+}
 .cardBTS {
 
     background: white;
@@ -45,3 +48,4 @@
 .cardBTS p {
     text-align: justify
 }
+
