@@ -68,15 +68,27 @@
                             </div>
                         </div>
                     </div>
-                    <div class="Mission">
+                    <div class="GestionProjet">
+                        <h5><u>La gestion de projet: </u></h5><br>
+                        <p>Le projet est réalisé selon la méthode Agile, et où les tâches sont rangées dans des tableaux.<br>
+                            L'outil de gestion de projet utilisé est Trello.
+                        </p><br>
+                        <div class="mt-4">
+                            <a class="  my-button" href="assets/img/Modals/MILLENUITTrello.png">
+                                Voir le tableu Trello&nbsp;<span class="bi bi-box-arrow-up-right"></span></a> 
+                        </div>
+                        <div class="img">
+                            <img src="assets/img/Modals/MILLENUITTrello-Logo.png" alt="alt"/>
+                        </div>
+                    </div><br>
+                    <div class="Missions">
                         <h5><u>Les missions : </u></h5><br>
                         <p>Afin de mener à bien le projet nous devions donner des livrables à des dates précises. Nous nous sommes partagé les différentes tâches à réaliser dans chacun des livrables.
                         </p>
                     </div><br>
                     <div class="tableau">
-
-                        <div class="mt-4 d-flex justify-content-center">
-                            <a onclick="changerTexteEtIcone()"class=" d-flex justify-content-center my-button" id="tab" type="button" data-bs-toggle="collapse" data-bs-target="#competences" aria-expanded="false" aria-controls="collapseExample">
+                        <div class="mt-4 ">
+                            <a onclick="changerTexteEtIcone()"class="my-button" id="tab" type="button" data-bs-toggle="collapse" data-bs-target="#competences" aria-expanded="false" aria-controls="collapseExample">
                                 <i class="bi bi-chevron-down"></i>&nbsp;Voir les compétences mobilisées</a>
                         </div>   
                         <div class="collapse" id="competences">
