@@ -36,15 +36,15 @@
                 <div class="EnvDev">
                     <h5><u>Environnement de développement :     </u></h5><br>
                     <ul>
-                        <li><b>Front-end : </b> HTML/CSS ainsi que le FrameWork Bootstrap 5 </li>
+                        <li><b>Front-End : </b> HTML/CSS ainsi que le FrameWork Bootstrap 5 </li>
                         <li><b>Back-End : </b>PHP</li>                     
                         <li><b>Données : </b>MariaDB géré avec PhpMyAdmin</li>                      
                     </ul><br>
                     <div class="img">      
-                        <img src="assets/img/Modals/MILLENUITbootstrap.png"  alt="bootstrap icone">
-                        <img src="assets/img/Modals/MILLENUITjquery.png"  alt="bootstrap icone">
-                        <img src="assets/img/Modals/MILLENUITMariaDB.png" alt="bootstrap icone">
-                        <img src="assets/img/Modals/MILLENUITPHP.png"  alt="bootstrap icone"> 
+                        <img src="assets/img/Modals/Millenuit/MILLENUITbootstrap.png"  alt="bootstrap icone">
+                        <img src="assets/img/Modals/Millenuit/MILLENUITjquery.png"  alt="bootstrap icone">
+                        <img src="assets/img/Modals/Millenuit/MILLENUITMariaDB.png" alt="bootstrap icone">
+                        <img src="assets/img/Modals/Millenuit/MILLENUITPHP.png"  alt="bootstrap icone"> 
                     </div>
                 </div><br>
                 <div class="BDD">
@@ -63,7 +63,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="mt-4 d-flex justify-content-center">
-                                <a class=" d-flex justify-content-center my-button" href="assets/img/Modals/MILLENUITSchemaBDD.png">
+                                <a class=" d-flex justify-content-center my-button" href="assets/img/Modals/Millenuit/MILLENUITSchemaBDD.png">
                                     Voir le nouveau schéma relationnel&nbsp;<span class="bi bi-box-arrow-up-right"></span></a> 
                             </div>
                         </div>
@@ -74,11 +74,11 @@
                             L'outil de gestion de projet utilisé est Trello.
                         </p><br>
                         <div class="mt-4">
-                            <a class="  my-button" href="assets/img/Modals/MILLENUITTrello.png">
+                            <a class="  my-button" href="assets/img/Modals/Millenuit/MILLENUITTrello.png">
                                 Voir le tableu Trello&nbsp;<span class="bi bi-box-arrow-up-right"></span></a> 
                         </div>
                         <div class="img">
-                            <img src="assets/img/Modals/MILLENUITTrello-Logo.png" alt="alt"/>
+                            <img src="assets/img/Modals/Millenuit/MILLENUITTrello-Logo.png" alt="alt"/>
                         </div>
                     </div><br>
                     <div class="Missions">

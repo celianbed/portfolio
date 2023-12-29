@@ -20,7 +20,7 @@
                 <div class="card col-md-4">
                     <img src="assets/img/ecocert.png" class="card-img-top" alt="millenuitProjet">
                     <div class="card-body ">
-                        <h5 class="card-title">Ecocert simultateur </h5>
+                        <h5  class="card-title">Ecocert simultateur </h5>
                         <a id="btnCard2" class="btn btn-primary">Non disponible</a>
                     </div>
                 </div>
@@ -36,30 +36,23 @@
         </div>
         <div class="ProjetPerso">
             <h2 id="text-start">Mes projets personnel</h2>
-            <div class = "row mb-7">
-                <div class="col-md-3">
-                    <div class="card">
+            <div class = "row md-7">
+                    <div class="card col-md-3">
                         <img src="assets/img/GenMdp.jpg" class="card-img-top" alt="Générateur de mots de passe">
                         <div class="card-body">
                             <h5 class="card-title">Génerateur de mot de passe </h5>
                             <a data-bs-target="#GenMdp" data-bs-toggle="modal" id="btnCard" class="btn btn-primary ">En savoir plus</a>
                         </div>
                     </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="card">
-                        <img src="assets/img/hebergementweb.jpg" class="card-img-top" alt="hebergementweb">
-                        <div class="card-body">
-                            <h5 class="card-title">Hébergement web </h5>
-                            <a data-bs-target="#Hebergement" data-bs-toggle="modal" id="btnCard" class="btn btn-primary ">En savoir plus</a>
-                        </div>
+                <div class="card col-md-3">
+                    <img src="assets/img/hebergementweb.jpg" class="card-img-top" alt="hebergementweb">
+                    <div class="card-body">
+                        <h5 class="card-title">Hébergement web </h5>
+                        <a data-bs-target="#Hebergement" data-bs-toggle="modal" id="btnCard" class="btn btn-primary ">En savoir plus</a>
                     </div>
                 </div>
+                <?php include 'Modals/ModalGenMdp.php'; ?>
+                <?php include 'Modals/ModalHebergementWeb.php'; ?>
             </div>
-            <?php include 'Modals/ModalGenMdp.php'; ?>
-            <?php include 'Modals/ModalHebergementWeb.php'; ?>
-
-
         </div>
-    </div>
 </section>
