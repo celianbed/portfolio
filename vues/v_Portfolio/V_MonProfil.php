@@ -1,6 +1,6 @@
 <section id="profil" class="align-items-center mn-3 col-sm-auto">
     <div class="container">
-        <h2 id="text-start">Mon Profil</h2><br><br>
+        <h2 id="text-start">Mon Profil</h2><br>
         <div  id="pr">
             <div class="cardP shadow " id="myCardProfil">
                 <div class="row">
@@ -31,7 +31,7 @@
             </div>
         </div>
         <div id='mesCompetences'>
-            <h2 id="text-start">Mes Compétences</h2><br><br>
+            <h2 id="text-start">Mes Compétences</h2><br>
             <div class ="row">
                 <div class="col-md-4"> 
                     <div class="cardC col-md-12"id="dev"  >

@@ -1,7 +1,7 @@
 <section id = "StagesProjets"  class="align-items-center mn-3 col-sm-auto">
     <div class="container">
         <div class="ProjetPro">
-            <h2 id="text-start">Projets en cours</h2><br><br>
+            <h2 id="text-start">Projets en cours</h2>
             <div class="row">           
                 <div class="card col-md-4">
                     <img src="assets/img/Logo_mille_nuits.png" class="card-img-top" alt="millenuitProjet">
@@ -34,13 +34,13 @@
             </div>
             <?php include 'Modals/ModalMillenuits.php'; ?>
         </div>
-        <div class="ProjetPerso">
-            <h2 id="text-start">Mes projets</h2><br><br>
+        <div class="ProjetPerso"><br>
+            <h2 id="text-start">Mes projets</h2>
             <div class="card">
-                <img src="assets/img/Logo_mille_nuits.png" class="card-img-top" alt="millenuitProjet">
+                <img src="assets/img/GenMdp.png" class="card-img-top" alt="Générateur de mots de passe">
                 <div class="card-body">
                     <h5 class="card-title">Génerateur de mot de passe </h5>
-                    <a data-bs-target="#staticBackdrop" data-bs-toggle="modal" id="btnCard" class="btn btn-primary ">En savoir plus</a>
+                    <a data-bs-target="#GenMdp" data-bs-toggle="modal" id="btnCard" class="btn btn-primary ">En savoir plus</a>
                 </div>
             </div>
         </div>

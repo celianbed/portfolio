@@ -1,6 +1,6 @@
 <section id = "BTSSIO" class="align-items-center mn-3 col-sm-auto">
     <div class="container">
-        <h2 id="text-start">Le BTS SIO</h2><br><br>
+        <h2 id="text-start">Le BTS SIO</h2><br>
         <div class="cardBTS align-items-center">
             <div class="titre">
                 <h3>Qu'est-ce que le BTS SIO ?</h3><br>
