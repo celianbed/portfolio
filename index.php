@@ -29,7 +29,6 @@
                 include 'vues/v_Portfolio/V_Accueil.php';
                 include 'vues/v_Portfolio/V_MonProfil.php';
                 include 'vues/v_Portfolio/V_BTSSIO.php';
-                include 'vues/v_Portfolio/V_Docs.php';
                 include 'vues/v_Portfolio/V_StagesProjets.php';
                 include 'vues/v_Portfolio/V_GestPat.php';
                 include 'vues/v_Portfolio/V_VeilleTechno.php';

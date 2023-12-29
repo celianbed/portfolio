@@ -51,10 +51,10 @@
                     </div>
                 </div>
             </div>
-             <div class="mt-4 d-flex justify-content-center ">
-                            <a class=" my-button2" href="https://www.onisep.fr/ressources/univers-formation/formations/Post-bac/bts-services-informatiques-aux-organisations-option-a-solutions-d-infrastructure-systemes-et-reseaux" target="_blank">
-                                En savoir plus sur la formation</a>
-                        </div>
+            <div class="mt-4 d-flex justify-content-center ">
+                <a class=" my-button2" href="https://www.onisep.fr/ressources/univers-formation/formations/Post-bac/bts-services-informatiques-aux-organisations-option-a-solutions-d-infrastructure-systemes-et-reseaux" target="_blank">
+                    En savoir plus sur la formation</a>
+            </div>
         </div>
     </div> 
 </section>

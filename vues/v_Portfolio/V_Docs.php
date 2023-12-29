@@ -1,3 +1,0 @@
-<section id ="StagesProjets">
-
-</section>

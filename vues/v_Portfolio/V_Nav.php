@@ -15,49 +15,48 @@
         </button>
         <div class="container-fluid">
             <div class="row collapse navbar-collapse" id="menu-millenuits">
-                    <ul class="navbar-nav nav nav-pills nav-flush flex-sm-column flex-row flex-nowrap mb-auto mx-auto">
-                        <li class="nav-item">
-                            <a href="#home" class="nav-link" title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Home">
-                                <i class="bi-house"></i>
-                                <span>Accueil</span>
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#profil" class="nav-link " title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Dashboard">
-                                <i class="bi bi-person-circle"></i>
-                                <span>Profil et Compétences</span>
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#BTSSIO" class="nav-link " title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Orders">
-                                <i class="bi bi-mortarboard "></i>
-                                <span>BTS SIO</span>
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#StagesProjets" class="nav-link " title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Products">
-                                <i class="bi bi-briefcase "></i>
-                                <span>Projets et Stages</span>
-                            </a>
-                        </li >
-                        <li class="nav-item">
-                            <a href="#GestPat" class="nav-link" title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Customers">
-                                <i class="bi bi-window-stack"></i>
-                                <span>Gestion du Patrimoine</span>
-                            </a>
-                        </li>
-                          <li class="nav-item">
-                            <a href="#VeilleTechno" class="nav-link" title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Customers">
-                                <i class="bi bi-globe"></i>
-                                <span>Veille Technologique</span>
-                            </a>
-                        </li>
-                    </ul>
+                <ul class="navbar-nav nav nav-pills nav-flush flex-sm-column flex-row flex-nowrap mb-auto mx-auto">
+                    <li class="nav-item">
+                        <a href="#home" class="nav-link" title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Home">
+                            <i class="bi-house"></i>
+                            <span>Accueil</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#profil" class="nav-link " title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Dashboard">
+                            <i class="bi bi-person-circle"></i>
+                            <span>Profil et Compétences</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#BTSSIO" class="nav-link " title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Orders">
+                            <i class="bi bi-mortarboard "></i>
+                            <span>BTS SIO</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#StagesProjets" class="nav-link " title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Products">
+                            <i class="bi bi-briefcase "></i>
+                            <span>Projets et Stages</span>
+                        </a>
+                    </li >
+                    <li class="nav-item">
+                        <a href="#GestPat" class="nav-link" title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Customers">
+                            <i class="bi bi-window-stack"></i>
+                            <span>Gestion du Patrimoine</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#VeilleTechno" class="nav-link" title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Customers">
+                            <i class="bi bi-globe"></i>
+                            <span>Veille Technologique</span>
+                        </a>
+                    </li>
+                </ul>
 
             </div>
         </div>
     </nav>
-
 </div>
 <div id="copyright"><span>&copy; 2023 Célian Bedminster<br>
-      Fait main par Célian Bedminster</span></div>
+        Fait main par Célian Bedminster</span></div>
