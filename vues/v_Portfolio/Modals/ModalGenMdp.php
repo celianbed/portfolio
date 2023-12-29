@@ -7,6 +7,10 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
+                <div class="obj">
+                    <h5><u>Objectif : </u></h5><br>
+
+                </div>
             </div>
         </div>     
     </div>

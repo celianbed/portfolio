@@ -41,7 +41,7 @@
 }
 
 .card #btnCard{
-    
+
 }
 
 #StagesProjets #btnCard2{
@@ -59,8 +59,19 @@
 
 }
 
-#StagesProjets .ProjetPerso .card {
-    
-    width:  30vh;
-    height: 43vh
+#StagesProjets .ProjetPro{
+
+    padding-bottom: 3vh
 }
+
+
+
+  #StagesProjets .ProjetPerso .card {
+
+        width:  30vh;
+        height: 40vh;
+    }
+    #StagesProjets .ProjetPerso .card .card-body {
+        
+        padding-bottom: 10vh
+    }
