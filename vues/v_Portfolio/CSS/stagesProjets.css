@@ -59,7 +59,8 @@
 
 }
 
-#ProjetPerso .card {
+#StagesProjets .ProjetPerso .card {
     
-    background-color: red;
+    width:  30vh;
+    height: 43vh
 }

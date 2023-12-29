@@ -101,23 +101,4 @@
         </div>     
     </div>
 </div>
-<!-- 
-<script>
 
-    function changerTexteEtIcone() {
-        
-        var bouton = document.getElementById('tab');
-
-        if (bouton.innerHTML === 'Voir les compétences mobilisées') {
-            bouton.innerHTML = 'Cacher les compétences mobilisées';
-            bouton.prepend( <i class="bi bi-chevron-down"></i>);
-            // Remplacez 'votre_icone' par la classe de votre icône, par exemple 'fa fa-icon' si vous utilisez Font Awesome
-         
-        } else {
-            bouton.innerHTML = 'Cacher les compétences mobilisées';
-            bouton.prepend( <i class="bi bi-chevron-right"></i>)
-        }
-    }
-</script>
-
-comment -->
