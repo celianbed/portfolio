@@ -68,10 +68,7 @@
 
   #StagesProjets .ProjetPerso .card {
 
-        width:  25vh;
-        height: 35vh;
+        width:  33vh;
+        height: 43vh
     }
-    #StagesProjets .ProjetPerso .card .card-body {
-        
-        padding-bottom: 10vh
-    }
+ 
