@@ -1,0 +1,147 @@
+
+section.home {
+
+    padding-left:320px;
+    height: 100vh;
+    min-height: 100vh;
+  
+   
+}
+
+section.home .intro {
+    max-width: 540px;
+    max-height: 378px;
+
+   
+}
+
+section.home .intro h1 {
+    font-weight: bold
+}
+
+section.home .container {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1080px;
+ 
+    
+
+}
+section.home .intro span {
+    color: #FFF;
+    font-size: 30px;
+}
+a.my-button{
+    background-color: #e65e61;
+    color: #fff;
+    font-family: Trebuchet MS;
+    font-size: 19px;
+    font-weight: 800;
+    font-style: normal;
+    text-decoration: none;
+    padding: 8px 15px;
+    border: 0px solid #000;
+    border-radius: 100px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 7;
+}
+
+
+a.my-button:hover{
+    background-color: white;
+    color:#4e54c8;
+}
+
+a.my-button .bi-download {
+    color: #000!important
+}
+
+a #cv:hover{
+    color:white!important;
+    background-color: #4e54c8!important;
+}
+a.my-button:active{
+    transform: scale(0.95);
+}
+
+
+
+a#scroll-btn {
+    position: absolute;
+    height:3em;
+    width: 2em;
+    border: 0.2em solid #ffffff;
+    bottom: 0;
+    top : 90vh;
+    border-radius: 3em;
+    z-index: 8; 
+}
+
+a#scroll-btn:before {
+    position: absolute;
+    content: "";
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0.4em;
+    height:0.4em;
+    width: 0.4em;
+    background-color: #ffffff;
+    border-radius: 50%;
+    animation: move-down 2s infinite;
+}
+
+a#scroll-btn:after {
+    position: absolute;
+    content: "MON PROFIL";
+    width: 12em;
+    display: block;
+    width: 12em;
+    text-align: center;
+    left: -83px;
+    bottom: -2.5em;
+    font-size: 1em;
+    color: #ffffff;
+    letter-spacing: 3px;
+    font-weight: 600;
+}
+
+@-webkit-keyframes move-down {
+  0% {
+    -webkit-transform: translate(0, 0);
+    opacity: 0;
+  }
+  40% {
+    opacity: 1;
+  }
+  80% {
+    -webkit-transform: translate(0, 20px);
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@keyframes move-down {
+  0% {
+    transform: translate(0, 0);
+    opacity: 0;
+  }
+  40% {
+    opacity: 1;
+  }
+  80% {
+    transform: translate(0, 20px);
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+
+
+
