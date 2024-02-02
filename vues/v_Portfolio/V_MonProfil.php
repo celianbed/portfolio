@@ -36,7 +36,7 @@
                 <div class="col-md-4"> 
                     <div class="cardC col-md-12"id="dev"  >
                         <div class="row md-7">
-                            <img class="img-fluid rounded-circle" src="assets/img/html.png" > 
+                            <img class="img-fluid" src="assets/img/html.png" > 
                         </div>
                         <div class="row md-5 align-items-center d-flex" >
                             <h3>Développement web</h3>
@@ -47,7 +47,7 @@
                 <div class="col-md-4"> 
                     <div class="cardC col-md-12" id="bdd">
                         <div class="row md-7">
-                            <img class="img-fluid rounded-circle" src="assets/img/bdd.png"  > 
+                            <img class="img-fluid" src="assets/img/bdd.png"  > 
                         </div>
                         <div class="row md-5">
                             <h3>Gestion de BDD</h3>
@@ -58,7 +58,7 @@
                 <div class="col-md-4"> 
                     <div class="cardC col-md-12" id="appli" >
                         <div class="row md-7">
-                            <img class="img-fluid rounded-circle" src="assets/img/appli.png"  > 
+                            <img class="img-fluid" src="assets/img/appli.png"  > 
                         </div>
                         <div class ="row md-5">
                             <h3>Développement Applicatif</h3>

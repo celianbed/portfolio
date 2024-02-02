@@ -31,19 +31,17 @@
                         <a id="btnCard" class="btn btn-primary ">Non disponible</a>
                     </div>
                 </div>
-            </div>
+            </div><br>
             <?php include 'Modals/ModalMillenuits.php'; ?>
-        </div>
-        <div class="ProjetPerso">
             <h2 id="text-start">Mes projets personnel</h2>
             <div class = "row">
-                    <div class="card col-md-3">
-                        <img src="assets/img/GenMdp.jpg" class="card-img-top" alt="Générateur de mots de passe">
-                        <div class="card-body">
-                            <h5 class="card-title">Génerateur de mot de passe </h5>
-                            <a data-bs-target="#GenMdp" data-bs-toggle="modal" id="btnCard" class="btn btn-primary ">En savoir plus</a>
-                        </div>
+                <div class="card col-md-3">
+                    <img src="assets/img/GenMdp.jpg" class="card-img-top" alt="Générateur de mots de passe">
+                    <div class="card-body">
+                        <h5 class="card-title">Passwords generator</h5>
+                        <a data-bs-target="#GenMdp" data-bs-toggle="modal" id="btnCard" class="btn btn-primary ">En savoir plus</a>
                     </div>
+                </div>
                 <div class="card col-md-3">
                     <img src="assets/img/hebergementweb.jpg" class="card-img-top" alt="hebergementweb">
                     <div class="card-body">
@@ -54,5 +52,7 @@
                 <?php include 'Modals/ModalGenMdp.php'; ?>
                 <?php include 'Modals/ModalHebergementWeb.php'; ?>
             </div>
+
         </div>
+    </div>
 </section>

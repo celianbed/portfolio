@@ -54,12 +54,3 @@
     width:  33vh;
     height: 43vh
 }
-
-@media (min-width: 2000px) {
-    #StagesProjets .ProjetPerso .card {
-
-        width:  25vh;
-        height: 35vh;
-    }
-
-}
