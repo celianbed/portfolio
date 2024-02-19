@@ -70,7 +70,7 @@
                     </div>
                     <div class="GestionProjet">
                         <h5><u>La gestion de projet: </u></h5><br>
-                        <p>Le projet est réalisé selon la méthode Agile, et où les tâches sont rangées dans des tableaux.<br>
+                        <p>Le projet est réalisé selon la méthode Agile, où les tâches sont rangées dans des tableaux.<br>
                             L'outil de gestion de projet utilisé est Trello.
                         </p><br>
                         <div class="mt-4">

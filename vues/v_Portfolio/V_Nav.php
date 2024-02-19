@@ -1,6 +1,6 @@
 <div class = "d-flex flex-column">
     <div class ="profil">
-        <img class="img-fluid rounded-circle" src="assets/img/moi.png" alt="photoDeProfil"> 
+        <img class="img-fluid rounded-circle" src="assets/img/moi.jpg" alt="photoDeProfil"> 
         <h2>Célian Bedminster</h2>
         <div id = "logo" class ="social-links mt-3 text-center">
             <a href="https://www.linkedin.com/in/c%C3%A9lian-bedminster-7152b626a/" target="_blank" class="linkedin"><i class="bi bi-linkedin"></i></a>

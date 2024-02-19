@@ -40,17 +40,28 @@
     text-align: center
 }
 
-
-
 #StagesProjets .ProjetPro{
 
     padding-bottom: 3vh
 }
 
 
-
 #StagesProjets .ProjetPerso .card {
 
     width:  33vh;
     height: 43vh
+}
+
+@media (min-width: 2000px) {
+    #StagesProjets .ProjetPerso .card {
+
+        width:  25vh;
+        height: 35vh;
+    }
+
+}
+
+#StagesProjets .ProjetPro .card #ecocert{
+    
+ padding-top: 9rem
 }
