@@ -40,13 +40,10 @@
     text-align: center
 }
 
-
-
 #StagesProjets .ProjetPro{
 
     padding-bottom: 3vh
 }
-
 
 
 #StagesProjets .ProjetPerso .card {
@@ -62,4 +59,9 @@
         height: 35vh;
     }
 
+}
+
+#StagesProjets .ProjetPro .card #ecocert{
+    
+ padding-top: 9rem
 }
