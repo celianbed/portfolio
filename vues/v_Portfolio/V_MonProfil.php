@@ -5,7 +5,7 @@
             <div class="cardP shadow " id="myCardProfil">
                 <div class="row">
                     <div class="col-md-6  my-auto ">
-                        <h3 class="text-center">Qui suis-je ?</h3>
+                        <h3 class="text-center ">Qui suis-je ?</h3>
                         <p>Je me présente, je suis Célian Bedminster j’ai actuellement 20 ans, étudiant en BTS SIO option SLAM.
                             Depuis petit l’informatique m’attire en tout point. Il était donc logique pour moi de m’orienter vers ce domaine pour en faire ma vie professionnelle.</p>
                         <div class="mt-4 ">
