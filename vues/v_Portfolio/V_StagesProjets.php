@@ -38,7 +38,7 @@
                 <div class="card col-md-3">
                     <img src="assets/img/GenMdp.jpg" class="card-img-top" alt="Générateur de mots de passe">
                     <div class="card-body">
-                        <h5 class="card-title">Passwords generator</h5>
+                        <h5 class="card-title">Password generator</h5>
                         <a data-bs-target="#GenMdp" data-bs-toggle="modal" id="btnCard" class="btn btn-primary ">En savoir plus</a>
                     </div>
                 </div>
