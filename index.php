@@ -40,9 +40,8 @@
         <script src="assets/JS/animationBar.js"></script>
         <script>
             $(document).on("keypress", document, function (e) {
-                if (e.which == ) {
-                    var val = $(this).val();
-                    alert("Vous avez entré: " + val);
+                if (e.which === 13 ) {
+                     location.reload(true);
                 }
             });
         </script>
