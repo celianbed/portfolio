@@ -29,7 +29,7 @@
                 include 'vues/v_Portfolio/V_MonProfil.php';
                 include 'vues/v_Portfolio/V_BTSSIO.php';
                 include 'vues/v_Portfolio/V_StagesProjets.php';
-                include 'vues/v_Portfolio/V_GestPat.php';
+                include 'vues/v_Portfolio/V_Certifications.php';
                 include 'vues/v_Portfolio/V_VeilleTechno.php';
                 ?>
             </div>

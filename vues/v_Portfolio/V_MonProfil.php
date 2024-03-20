@@ -40,7 +40,7 @@
                         </div>
                         <div class="row md-5 align-items-center d-flex" >
                             <h3>Développement web</h3>
-                            <p>Conception et programmation d'un site web en <b>HTML/CSS/JS/PHP</b> ou via un <b>CMS</b></p>
+                            <p>Conception et programmation d'un site web en <b>HTML</b>/<b>CSS</b>/<b>JS</b>/<b>PHP</b>, via un <b>CMS</b> ou des Frameworks comme <b>Bootstrap</b> et <b>Angular</b>.</p>
                         </div>
                     </div>
                 </div>
@@ -51,7 +51,7 @@
                         </div>
                         <div class="row md-5">
                             <h3>Gestion de BDD</h3>
-                            <p>Stocker, manipuler et gérer les données dans une base de données via <b>MySQL et MariaDB</b>.</p>
+                            <p>Stocker, manipuler et gérer les données dans une base de données via <b>MySQL, MariaDB</b> et <b>Oracle</b>.</p>
                         </div>
                     </div>
                 </div>
@@ -62,7 +62,7 @@
                         </div>
                         <div class ="row md-5">
                             <h3>Développement Applicatif</h3>
-                            <p> Conception et programmation de logiciel métier avec <b>Java /C#/ Wlangage</b></p>
+                            <p> Conception et programmation de logiciels métiers avec <b>Java</b> /<b>C#</b>/<b> Wlangage</b> et des FrameWorks comme <b>SpringBoot</b> et <b>.NET</b>.</p>
                         </div>
                     </div>
                 </div>
