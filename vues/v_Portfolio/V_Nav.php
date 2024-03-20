@@ -41,9 +41,9 @@
                         </a>
                     </li >
                     <li class="nav-item">
-                        <a href="#GestPat" class="nav-link" title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Customers">
+                        <a href="#Certifications" class="nav-link" title="" data-bs-toggle="tooltip" data-bs-placement="right" data-bs-original-title="Customers">
                             <i class="bi bi-window-stack"></i>
-                            <span>Certfications</span>
+                            <span>Certfications et Formations</span>
                         </a>
                     </li>
                     <li class="nav-item">
