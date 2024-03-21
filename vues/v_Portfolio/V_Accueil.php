@@ -5,7 +5,7 @@
             <span>Je suis</span>
             <span data-twreplace-charspeed="80" 
                   data-twreplace-wordspeed="5000"
-                  data-twreplace='["étudiant","développeur"]'>
+                  data-twreplace='["étudiant","développeur","concepteur"]'>
                 étudiant
             </span>
             </span>
