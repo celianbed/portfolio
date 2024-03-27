@@ -8,7 +8,6 @@
                   data-twreplace='["étudiant","développeur","concepteur"]'>
                 étudiant
             </span>
-            </span>
 
             <div class="mt-4">
                 <a class="my-button" href="assets/pdf/BedminsterCelian.pdf" download>
@@ -16,7 +15,7 @@
                     </span>
                     &nbsp;Télécharger mon CV</a>
             </div>
-            <div id="section-1 d-flex justify-content-evenly">
+            <div class="section-1 d-flex justify-content-evenly">
                 <a id="scroll-btn" href="#profil"></a>
             </div>
         </div>

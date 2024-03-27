@@ -3,10 +3,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-top: 2vh
+    padding-top: 2vh;
+    padding-bottom: 15vh;
 }
 
-#StagesProjets #btnCard{
+#StagesProjets .btnCard{
     background-color: #4e54c8;
     border: #4e54c8;
     display: block;
@@ -15,10 +16,9 @@
 
 }
 
-#StagesProjets #btnCard:hover{
+#StagesProjets .btnCard:hover{
     background-color: #e65e61;
     border: #e65e61;
-
 
 }
 
@@ -47,7 +47,6 @@
 
 
 
-#StagesProjets .ProjetPro .card #ecocert{
-    
+#StagesProjets .ecocert{
  padding-top: 9rem
 }

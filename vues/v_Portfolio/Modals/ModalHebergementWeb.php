@@ -1,9 +1,8 @@
-<!-- Modal -->
 <div class="modal fade" id="Hebergement" tabindex="-1" aria-labelledby="GenMdp" aria-hidden="true">
     <div class="modal-dialog  modal-xl">
         <div class="modal-content">
             <div class="modal-header">
-                <h1 class="modal-title fs-5" id="exampleModalLabel">Hébergement web</h1>
+                <h1 class="modal-title fs-5">Hébergement web</h1>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
@@ -13,7 +12,6 @@
                        Ayant choisi l'option développement durant mon BTS, j'ai choisi de réaliser ce projet, 
                        plutôt tourné réseau, pour développer mes compétences dans ce domaine. Cela me permet aussi  
                        de mieux comprendre les aspects techniques de l'hébergement, des serveurs web et de la gestion d'infrastructures.
-                       
                     </p> 
                  </div><br>
                  <div class="EnvDev">

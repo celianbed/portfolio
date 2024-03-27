@@ -1,6 +1,6 @@
 <section id = "BTSSIO" class="align-items-center mn-3 col-sm-auto col-xl-auto">
     <div class="container">
-        <h2 id="text-start">Le BTS SIO</h2><br>
+        <h2>Le BTS SIO</h2><br>
         <div class="cardBTS align-items-center">
             <div class="titre">
                 <h3>Qu'est-ce que le BTS SIO ?</h3><br>
@@ -52,7 +52,7 @@
                 </div>
             </div>
             <div class="mt-4 d-flex justify-content-center ">
-                <a class=" my-button2" href="https://www.onisep.fr/ressources/univers-formation/formations/Post-bac/bts-services-informatiques-aux-organisations-option-a-solutions-d-infrastructure-systemes-et-reseaux" target="_blank">
+                <a class=" my-button2" href="https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/ma-premiere-annee-en/ma-premiere-annee-en-bts-et-dcg/bts-services-informatiques-aux-organisations" target="_blank">
                     En savoir plus sur la formation</a>
             </div>
         </div>

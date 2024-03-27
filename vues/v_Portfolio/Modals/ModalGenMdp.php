@@ -1,4 +1,3 @@
-<!-- Modal -->
 <div class="modal fade" id="GenMdp" tabindex="-1" aria-labelledby="GenMdp" aria-hidden="true">
     <div class="modal-dialog  modal-xl">
         <div class="modal-content">
@@ -43,19 +42,19 @@
                             </tr>
                             <tr>
                                 <th scope="row">License</th>
-                                <td colspan="2">Gratuit</td>
+                                <td>Gratuit</td>
                             </tr>
                             <tr>
                                 <th scope="row">Système d'exploitation</th>
-                                <td colspan="2">Windows 7/8/10/11</td>
+                                <td>Windows 7/8/10/11</td>
                             </tr>
                             <tr>
                                 <th scope="row">Langue</th>
-                                <td colspan="2">Français</td>
+                                <td >Français</td>
                             </tr>
                             <tr>
                                 <th scope="row">Note utilisateurs</th>
-                                <td colspan="2"><span class="bi bi-star-fill"></span><span class="bi bi-star-fill"></span><span class="bi bi-star-fill"></span><span class="bi bi-star-fill"></span><span class="bi bi-star-half"></span> 4.5</td>
+                                <td><span class="bi bi-star-fill"></span><span class="bi bi-star-fill"></span><span class="bi bi-star-fill"></span><span class="bi bi-star-fill"></span><span class="bi bi-star-half"></span> 4.5</td>
                             </tr>
                         </tbody>
                     </table> <br><br>
@@ -69,8 +68,6 @@
                         <a class="my-button" href="assets/logiciel/Generateur_de_mot_de_passe.rar" download>
                            Télécharger pour Windows &nbsp; <span class='bi bi-windows'></span></a>
                     </div>
-                    </span>
-
                 </div>
             </div>
         </div>     
