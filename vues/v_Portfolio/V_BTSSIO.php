@@ -10,21 +10,20 @@
                 <div class="col-md-6">
                     <div class="titre">
                         <h4>OPTION SLAM</h4>
-                        <span>Solution logiciels et applications métiers</span>
+                        <span>Solutions logicielles et applications métiers</span>
                     </div>
                     <br> 
                     <div class="description  text-justify">
                         <p>
-                            L’option Solutions logicielles et applications métiers forme des spécialistes des logiciels (rédaction d’un cahier des charges, formulation des besoins et spécifications, développement, intégration au sein de la société).
-                            Les techniciens supérieurs en informatique option SLAM, sont préparés aux métiers de : </p>
+
+                            L'option SLAM (Solutions Logicielles et Applications Métiers) du BTS SIO (Services Informatiques aux Organisations) est une spécialisation qui se concentre sur le développement d'applications logicielles et la gestion de projets informatiques.</p>
                         <ul>
-                            <li>Administrateur systèmes et réseaux</li>
-                            <li> Informaticien support et déploiement</li>
-                            <li>Pilote d’exploitation </li>
-                            <li>Support systèmes et réseaux </li>
-                            <li>Technicien d’infrastructure</li>
-                            <li>Technicien de production</li>
-                            <li>Technicien micro et réseaux</li>
+                            <li>Développeur Logiciel</li>
+                            <li>Programmeur Analyste</li>
+                            <li>Administrateur de Bases de Données</li>
+                            <li>Chef de Projet Informatique </li>
+                            <li>Consultant en Technologies de l'Information</li>
+                            <li>Analyste en Assurance Qualité Logicielle </li>
                         </ul>
 
                     </div>
@@ -37,16 +36,15 @@
                     <br>
                     <div class="description text-justify">
                         <p>
-                            L’option Solution d’infrastructure, systèmes et réseaux forme des professionnels des réseaux et équipements informatiques (installation, maintenance, sécurité). En sortant d’un BTS SIO SISR, vous serez capables de gérer et d’administrer le réseau d’une société et d’assurer sa sécurité et sa maintenance.
-                            Les techniciens supérieurs en informatique option SISR, peuvent accéder aux métiers de : </p>
+
+                            L'option SISR (Solutions d'Infrastructure, Systèmes et Réseaux) du BTS SIO (Services Informatiques aux Organisations) est une spécialisation axée sur la gestion des infrastructures informatiques, des systèmes et des réseaux au sein des organisations.</p>
                         <ul>
-                            <li>Développeur d’applications informatiques</li>
-                            <li> Informaticien support et déploiement</li>
-                            <li>Pilote d’exploitation </li>
-                            <li>Support systèmes et réseaux </li>
-                            <li>Technicien d’infrastructure</li>
-                            <li>Technicien de production</li>
-                            <li>Technicien micro et réseaux</li>
+                            <li>Administrateur Systèmes et Réseaux</li>
+                            <li>Ingénieur Réseaux</li>
+                            <li>Technicien Support Informatique</li>
+                            <li>Responsable Sécurité Informatique</li>
+                            <li>Consultant en Infrastructures Informatiques </li>
+                            <li>Technicien système</li>
                         </ul>
                     </div>
                 </div>
