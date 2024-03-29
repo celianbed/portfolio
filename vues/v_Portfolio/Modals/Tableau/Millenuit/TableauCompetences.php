@@ -39,7 +39,7 @@
             <td>X</td>
         </tr>
         <tr>
-            <th scope="row">Fonctionnalité "Gestion des PCB"</th>
+            <th scope="row">Fonctionnalité "Gestion des comptes-rendus de visite"</th>
             <td></td>
             <td>X</td>
             <td>X</td>

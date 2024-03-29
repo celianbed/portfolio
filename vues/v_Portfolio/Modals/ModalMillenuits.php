@@ -1,8 +1,8 @@
-<div class="modal fade" id="staticBackdrop" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade" id="ModalMillenuit" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog  modal-xl">
         <div class="modal-content">
             <div class="modal-header">
-                <h1 class="modal-title fs-5">MILLENUIT</h1>
+                <h1 class="modal-title text-dark fs-5">MILLENUIT</h1>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
@@ -85,7 +85,7 @@
                     </div>
                     <div class="GestionProjet">
                         <h5><u>La gestion de projet: </u></h5><br>
-                        <p>Le projet est réalisé selon la méthode Agile, où les tâches sont rangées dans des
+                        <p>Le projet est réalisé selon la méthode Agile, dont les tâches sont rangées dans des
                             tableaux.<br>
                             L'outil de gestion de projet utilisé est Trello.
                         </p><br>
@@ -100,12 +100,12 @@
                     <br>
                     <div class="Missions">
                         <h5><u>Les missions : </u></h5><br>
-                        <p>Afin de mener à bien le projet nous devions donner des livrables à des dates précises. Nous
+                        <p>Afin de mener à bien le projet, nous devions donner des livrables à des dates précises. Nous
                             nous sommes partagé les différentes tâches à réaliser dans chacun des livrables, ce qu'on
                             appel des tickets.
                         </p>
                         <h6>Mes tickets : </h6>
-                        <p>Après la répartitons des fonctionalités j'avais donc des tâches à réaliser : </p>
+                        <p>Après la répartitons des fonctionalités, j'avais donc des tâches à réaliser : </p>
                     </div>
                     <br>
                     <div class="tableauTaches">
@@ -115,7 +115,7 @@
                                 <i class="bi bi-chevron-down"></i>&nbsp;Voir les fonctionnalités réalisées</a>
                         </div>
                         <div class="collapse" id="taches">
-                            <?php include 'Tableau/TableauTaches.php'; ?>
+                            <?php include 'Tableau/Millenuit/TableauTaches.php'; ?>
                         </div>
                     </div>
                     <div class="tableauCompetences">
@@ -125,7 +125,7 @@
                                 <i class="bi bi-chevron-down"></i>&nbsp;Voir les compétences mobilisées</a>
                         </div>
                         <div class="collapse" id="competences">
-                            <?php include 'Tableau/TableauCompetences.php'; ?>
+                            <?php include 'Tableau/Millenuit/TableauCompetences.php'; ?>
                         </div>
                     </div>
                 </div>

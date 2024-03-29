@@ -7,7 +7,7 @@
                     <img src="assets/img/Logo_mille_nuits.png" class="card-img-top" alt="millenuitProjet">
                     <div class="card-body">
                         <h5 class="card-title">MILLENUIT </h5>
-                        <a data-bs-target="#staticBackdrop" data-bs-toggle="modal"
+                        <a data-bs-target="#ModalMillenuit" data-bs-toggle="modal"
                            class="btn btn-primary btnCard">En savoir plus</a>
                     </div>
                 </div>
@@ -15,7 +15,7 @@
                     <img src="assets/img/ecocert.png" class="card-img-top" alt="ecocertProjet">
                     <div class="card-body  ecocert" >
                         <h5 class="card-title">Ecocert certificats</h5>
-                        <a class="btn btn-primary btnCard">Non disponible</a>
+                        <a data-bs-target="#ModalCertificat" data-bs-toggle="modal" class="btn btn-primary btnCard">En savoir plus</a>
                     </div>
                 </div>
                 <div class="card col-md-4">
@@ -35,7 +35,9 @@
             </div>
             <br>
             <?php include 'Modals/ModalMillenuits.php'; ?>
-            <h2>Mes projets personnels et mes stages</h2>
+            <?php include 'Modals/ModalEcoCertficat.php'; ?>
+
+            <h2>Mes projetspersonnels et mes stages</h2>
             <div class="row">
                 <div class="card col-md-4">
                     <img src="assets/img/GenMdp.jpg" class="card-img-top" alt="Générateur de mots de passe">
@@ -53,7 +55,7 @@
                             savoir plus</a>
                     </div>
                 </div>
-                <!---<div class="vr"></div>-->
+                    <!---<div class="vr"></div>-->
                 <div class="card col-md-4">
                     <img src="assets/img/Tours.png" class="card-img-top" alt="Stage à la Mairie de Tours">
                     <div class="card-body">
