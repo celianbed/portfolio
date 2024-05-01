@@ -14,21 +14,21 @@
                 <div class="card col-md-4 ">
                     <img src="assets/img/ecocert.png" class="card-img-top" alt="ecocertProjet">
                     <div class="card-body  ecocert" >
-                        <h5 class="card-title">Ecocert certificats</h5>
+                        <h5 class="card-title">Ecocert- Certificats</h5>
                         <a data-bs-target="#ModalCertificat" data-bs-toggle="modal" class="btn btn-primary btnCard">En savoir plus</a>
                     </div>
                 </div>
                 <div class="card col-md-4">
                     <img src="assets/img/ecocert.png" class="card-img-top" alt="ecocertProjet">
                     <div class="card-body align-items-end ecocert ">
-                        <h5 class="card-title">Ecocert simultateur </h5>
+                        <h5 class="card-title">Ecocert - Simultateur </h5>
                         <a class="btn btn-primary btnCard">Non disponible</a>
                     </div>
                 </div>
                 <div class="card col-md-4">
-                    <img src="assets/img/interro.png" class="card-img-top" alt="millenuitProjet">
-                    <div class="card-body">
-                        <h5 class="card-title">A venir</h5>
+                    <img src="assets/img/ecocert.png" class="card-img-top" alt="ecocertProjet">
+                    <div class="card-body y align-items-end ecocert ">
+                        <h5 class="card-title">Ecocert - Traitements</h5>
                         <a  class="btn btn-primary btnCard">Non disponible</a>
                     </div>
                 </div>
@@ -37,7 +37,7 @@
             <?php include 'Modals/ModalMillenuits.php'; ?>
             <?php include 'Modals/ModalEcoCertficat.php'; ?>
 
-            <h2>Mes projetspersonnels et mes stages</h2>
+            <h2>Mes projets personnels et mes stages</h2>
             <div class="row">
                 <div class="card col-md-4">
                     <img src="assets/img/GenMdp.jpg" class="card-img-top" alt="Générateur de mots de passe">
@@ -60,7 +60,7 @@
                     <img src="assets/img/Tours.png" class="card-img-top" alt="Stage à la Mairie de Tours">
                     <div class="card-body">
                         <h5 class="card-title">Mairie de Tours</h5>
-                        <a data-bs-target="" data-bs-toggle="modal"  class="btn btn-primary btnCard">Non disponible</a>
+                        <a data-bs-target="#StageMairie" data-bs-toggle="modal"  class="btn btn-primary btnCard">En savoir plus</a>
                     </div>
                 </div>
                 <div class="card col-md-4">
@@ -72,6 +72,7 @@
                 </div>
                 <?php include 'Modals/ModalGenMdp.php'; ?>
                 <?php include 'Modals/ModalHebergementWeb.php'; ?>
+                <?php include  'Modals/ModalStageMairie.php';?>
             </div>
 
         </div>

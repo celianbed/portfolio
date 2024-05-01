@@ -36,7 +36,7 @@
                 </ul>
             </td>
             <td><h4 class="bi bi-check-all d-flex justify-content-center mt-5 text-success"></h4></td>
-            <td><a href="assets/img/Modals/Millenuit/MILLENUITAjtDistrib.png"><h4 class="bi bi-box-arrow-up-right d-flex justify-content-center mt-5"></h4></a></td>
+            <td><a href="assets/img/Modals/Millenuit/MILLENUITListeDistrib.png"><h4 class="bi bi-box-arrow-up-right d-flex justify-content-center mt-5"></h4></a></td>
         </tr>
         <tr>
             <td><b>Afficher le dernier compte-rendu<br>
@@ -51,7 +51,7 @@
                 </ul>
             </td>
             <td><h4 class="bi bi-check d-flex justify-content-center mt-5 text-success"></h4></td>
-            <td><a href="assets/img/Modals/Millenuit/MILLENUITAjtDistrib.png"><h4 class="bi bi-box-arrow-up-right d-flex justify-content-center mt-5"></h4></a></td>
+            <td><a href="assets/img/Modals/Millenuit/MILLENUITDernierCmpt.png"><h4 class="bi bi-box-arrow-up-right d-flex justify-content-center mt-5"></h4></a></td>
         </tr>
         <tr>
             <td><b>Détail du compte-rendu</b><br><br>
@@ -64,7 +64,7 @@
                 </ul>
             </td>
             <td><h4 class="bi bi-check d-flex justify-content-center mt-5 text-success"></h4></td>
-            <td><a href="assets/img/Modals/Millenuit/MILLENUITAjtDistrib.png"><h4 class="bi bi-box-arrow-up-right d-flex justify-content-center mt-5"></h4></a></td>
+            <td><a href="assets/img/Modals/Millenuit/MILLENUITDetailCmpt.png"><h4 class="bi bi-box-arrow-up-right d-flex justify-content-center mt-5"></h4></a></td>
         </tr>
         <tr>
             <td><b>Ajouter un compte-rendu</b><br><br>
@@ -80,7 +80,7 @@
                 </ul>
             </td>
             <td><h4 class="bi bi-check d-flex justify-content-center mt-5 text-success"></h4></td>
-            <td><a href="assets/img/Modals/Millenuit/MILLENUITAjtDistrib.png"><h4 class="bi bi-box-arrow-up-right d-flex justify-content-center mt-5"></h4></a></td>
+            <td><a href="assets/img/Modals/Millenuit/MILLENUITAjtCmpt.png"><h4 class="bi bi-box-arrow-up-right d-flex justify-content-center mt-5"></h4></a></td>
         </tr>
         <tr>
             <td><b>Modifier un compte-rendu</b><br><br>
@@ -95,7 +95,7 @@
                 </ul>
             </td>
             <td><h4 class="bi bi-clock-history d-flex justify-content-center mt-5 text-warning"></h4></td>
-            <td><a href="assets/img/Modals/Millenuit/MILLENUITAjtDistrib.png"><h4 class="bi bi-box-arrow-up-right d-flex justify-content-center mt-5"></h4></a></td>
+            <td><a href="assets/img/Modals/Millenuit/MILLENUITModifCmpt.png"><h4 class="bi bi-box-arrow-up-right d-flex justify-content-center mt-5"></h4></a></td>
         </tr>
     </tbody>
 </table>

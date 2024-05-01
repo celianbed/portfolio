@@ -9,11 +9,6 @@
 
 }
 
-@media only screen and (max-height: 1567) {
-    #header{
-        overflow: scroll
-    }
-}
  #header img{
     margin: 15px auto;
     width: 125px;
@@ -133,11 +128,6 @@
 
 }
 
-#header .profil .snapchat:hover{
-
-    color: #FFFC00;
-}
-
 #header .profil .linkedin:hover{
 
     color: #0e76a8;
@@ -145,15 +135,15 @@
 
 }
 
-#header .profil .twitter:hover{
-
-    color: black;
-
-}
 #header .profil .instagram:hover{
 
     color: rgb(241,42,123)
 
+}
+
+#header .profil .mail:hover{
+
+    color: rgb(16, 179, 231);
 }
 
 

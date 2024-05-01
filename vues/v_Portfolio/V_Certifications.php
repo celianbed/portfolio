@@ -1,5 +1,6 @@
 <section id="Certifications" class=" align-items-center mn-3 col-sm-auto col-xl-auto offset-md-2">
     <div class="container">
+        <h2>Mes certifications et formations</h2><br>
         <div class="row no-gutters">
             <div class="col-sm"></div>
             <div class="col-sm-1 text-center flex-column d-none d-sm-flex">
@@ -38,7 +39,7 @@
                     <div class="card-body">
                         <div class="float-lg-end text-muted small ">Novembre 2022</div>
                         <h5 class="card-title text-muted">Certification Python</h5><br>
-                        <p class="card-text">Formation python pour s'entrainer et renforcer mes conpétences dans ce
+                        <p class="card-text">Formation python pour s'entrainer et renforcer mes compétences dans ce
                             langage qui est toujours
                             beaucoup utilisé.</p>
                     </div>
