@@ -67,7 +67,7 @@
                     <img src="assets/img/HM.png" class="card-img-top" alt="Stage chez Harmonie Mutuelle">
                     <div class="card-body">
                         <h5 class="card-title">Harmonie Mutuelle</h5>
-                        <a data-bs-target="" data-bs-toggle="modal"  class="btn btn-primary btnCard ">Non disponible</a>
+                        <a data-bs-target="#StageHM" data-bs-toggle="modal"  class="btn btn-primary btnCard ">En savoir plus</a>
                     </div>
                 </div>
                 <?php include 'Modals/ModalGenMdp.php'; ?>

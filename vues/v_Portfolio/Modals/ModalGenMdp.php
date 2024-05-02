@@ -20,7 +20,7 @@
                         <li><b>Front-End  : </b>WindowsForm</li>                     
                         <li><b>IDE : </b>Visual Studio</li>                      
                     </ul><br>
-                    <div class="img">      
+                    <div class="img">
                         <img src="assets/img/Modals/GenMdp/csharp.png"  alt="bootstrap icone">
                         <img class="rounded-circle" src="assets/img/Modals/GenMdp/WinForms.png"  alt="bootstrap icone">
                         <img src="assets/img/Modals/GenMdp/VisualStudio.png"  alt="bootstrap icone">
@@ -28,8 +28,6 @@
                 </div><br>
                 <div class="Logiciel">
                     <h5><u>Caractéristiques :</u></h5><br>
-
-
                     <table class="table table-striped table-hover">
                         <tbody>
                             <tr>

@@ -56,5 +56,5 @@
         </div>
     </nav>
 </div>
-<div id="copyright"><span>&copy; 2023 Célian Bedminster<br>
+<div id="copyright"><span>&copy; 2024 Célian Bedminster<br>
         Fait main par Célian Bedminster</span></div>
