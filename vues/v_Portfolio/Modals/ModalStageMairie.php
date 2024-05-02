@@ -9,15 +9,14 @@
                 <div class="cc">
                     <h5><u>Contexte : </u></h5><br>
                     <p>
-                        Lors de ma première année de BTS, j'ai réalisé un stage en entreprise du 25 mai 2023 au 28 Juin 2023, qui a été ma première
-                        expérience professionnelle dans le milieu du développement informatique.
-                        Grâce à ce stage, j'ai découvert un nouveau langage de programmation nommé "Wlangage" et une API
-                        appelé "Leaflet".
-                        L'application sur laquelle j'ai travaillé est appelé "Aristé Mobile", elle permet aux Jardiniers
-                        de la ville de Tours d'inventorier les arbres et ainsi de mieux les repairer grâce à une carte.
-                        J'ai aussi pu découvrir le fonctionnement des différents types d'équipes en entreprise ainsi que
-                        la gestion d'un projet notamment grâce à "Projet Monitore".
-
+                        Lors de ma première année de BTS, j'ai réalisé un stage en entreprise du 25 mai au 28 juin
+                        2023, qui a été ma première expérience professionnelle dans le milieu du développement
+                        informatique. Grâce à ce stage, j'ai découvert un nouveau langage de programmation nommé
+                        "Wlangage" et une API appelée "Leaflet".<br> L'application sur laquelle j'ai travaillé est appelée
+                        "Aristé Mobile", elle permet aux Jardiniers de la ville de Tours d'inventorier les arbres et
+                        ainsi de mieux les repérer grâce à une carte. J'ai aussi pu découvrir le fonctionnement des
+                        différents types d'équipes en entreprise ainsi que la gestion d'un projet notamment grâce à
+                        "Projet Monitore".
                     </p>
                 </div>
                 <br>
@@ -28,7 +27,7 @@
                         application pour ordinateur, en application Android.
                         Le but est de faciliter aux jardiniers la mise à jour des différents arbres sur le terrain en
                         évitant de devoir tout noter et reporter une fois son travail finit sur l'application Windows.
-                        Cela lui facilite ainsi le travail, car cela était source d'erreur.
+                        Cela lui facilite ainsi le travail, car cela était source d'erreurs.
                     </p>
                 </div>
                 <br>
@@ -78,7 +77,7 @@
                             <div class="col">
                                 <div class="row">
                                     <p>
-                                        Durant mon stage, mon maitre de stage a réalisé, grâce à l'outil "Project
+                                        Durant mon stage, mon maître de stage a réalisé, grâce à l'outil "Project
                                         Monitor", les différentes étapes du développement de l'application mobile.
                                         J'ai réalisé un document qui résume cela.
                                     </p>
@@ -99,13 +98,15 @@
                 <div class="rapport">
                     <h5><u>Mon rapport de stage</u></h5><br>
 
-                    Durant mon stage j'ai réalisé des rapports hebdomadaires avec les différentes tâches
-                    réalisées, les problèmes recontrés et leur résoution.
-                    Cela constitue donc mon rapport de stage
+                    Durant mon stage, j'ai réalisé des rapports hebdomadaires avec les différentes tâches
+                    réalisées, les problèmes rencontrés et leur résolution.
+                    Ceci constitue donc mon rapport de stage.
                     <div class="mt-4 ">
-                        <a id="cv" class="my-button2" href="assets/pdf/ModalsPDF/RapportHebdoMairie.pdf" target="_blank">
+                        <a id="cv" class="my-button2" href="assets/pdf/ModalsPDF/RapportHebdoMairie.pdf"
+                           target="_blank">
                             Voir mon rapport de stage</a>
-                        <a href="assets/pdf/ModalsPDF/RapportHebdoMairie.pdf" class="my-button2" download>Télécharger mon rapport de stage</a>
+                        <a href="assets/pdf/ModalsPDF/RapportHebdoMairie.pdf" class="my-button2" download>Télécharger
+                            mon rapport de stage</a>
                     </div>
                 </div>
             </div>

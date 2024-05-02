@@ -4,7 +4,9 @@
         <h2>Célian Bedminster</h2>
         <div id = "logo" class ="social-links mt-3 text-center">
             <a href="https://www.linkedin.com/in/c%C3%A9lian-bedminster-7152b626a/" target="_blank" class="linkedin"><i class="bi bi-linkedin"></i></a>
-            <a href="mailto:celianbedminster@proton.me" class="mail"><i class="bi bi-envelope-at"></i></a>
+            <a href="mailto:celianbedminster@proton.me" class="mail"><i class="bi bi-envelope-at"  data-bs-toggle="tooltip" data-bs-placement="top"
+                                                                        data-bs-custom-class="custom-tooltip"
+                                                                        data-bs-title="This top tooltip is themed via CSS variables."></i></a>
         </div>
     </div>
     <nav class = "navbar navbar-expand-lg" id="test" >

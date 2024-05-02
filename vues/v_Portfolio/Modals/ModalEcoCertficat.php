@@ -8,14 +8,13 @@
             <div class="modal-body">
                 <div class="sujet">
                     <h5><u>L'entreprise : </u></h5><br>
-                   A remplir gars
                 </div>
                 <br>
                 <div class="description">
                     <h5><u>Description du projet : </u></h5><br>
                     <p>
                         Lors du troisième semestre, j'ai réalisé un projet appelé "Ecocert-Certificat".
-                        J'ai pu découvrir le FrameWork CodeIgniter qui est un FrameWork PHP. Il nous a permit de developer plus fa ciment notre application,
+                        J'ai pu découvrir le FrameWork CodeIgniter qui est un FrameWork PHP, il nous a permit de developer plus facilement notre application,
                         notamment au niveau de la sécurité, car ce FrameWork dispose déja de méthode qui permettent de sécuriser uje application
                         Web.
 

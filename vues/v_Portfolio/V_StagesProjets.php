@@ -73,6 +73,7 @@
                 <?php include 'Modals/ModalGenMdp.php'; ?>
                 <?php include 'Modals/ModalHebergementWeb.php'; ?>
                 <?php include  'Modals/ModalStageMairie.php';?>
+                <?php include 'Modals/ModalStageHM.php';?>
             </div>
 
         </div>
