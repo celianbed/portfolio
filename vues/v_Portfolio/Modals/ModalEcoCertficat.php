@@ -84,7 +84,7 @@
                     <p>Pour créer et gérer les données de l'application, nous avons utilisé une base de données SQL
                         Server.
                         La modélisation de la base de données a été réalisée de manière à stocker les différentes
-                        informations des
+                        informations des certificats, etc. Celle-ci nous a directement été fournie. Nous avons juste dû gérer les utilisateurs
                     </p>
                     <div class="row mb-8 d-flex justify-content-center">
                         <div class="col-md-4">
@@ -118,8 +118,8 @@
                                 Voir la BackLog&nbsp;<span class="bi bi-box-arrow-up-right"></span></a>
                         </div>
                         <div class="img">
-                            <img style="width: 40vh; height: 20vh" src="assets/img/Modals/Ecocert/Jira.png"
-                                 alt="Logo Millenuit">
+                            <img src="assets/img/Modals/Stages/HM/Jira.png" style="width: 200px; height: 70px" alt="logo Jira">
+
                         </div>
                     </div>
                     <br>

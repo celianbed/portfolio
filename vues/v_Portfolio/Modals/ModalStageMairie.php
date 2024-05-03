@@ -42,7 +42,7 @@
                     </ul>
                     <br>
                     <div class="img">
-                        <img src="assets/img/Modals/Stages/Mairie/Android.png" alt="bootstrap icone">
+                        <img src="assets/img/Modals/Stages/Mairie/android.png" alt="bootstrap icone">
                         <img src="assets/img/Modals/Stages/Mairie/WinDev.png" alt="bootstrap icone">
                         <img src="assets/img/Modals/Stages/Mairie/WL.png" alt="bootstrap icone">
                         <img src="assets/img/Modals/Stages/Mairie/HFSQL.png" alt="bootstrap icone">
@@ -89,7 +89,7 @@
                             </div>
                         </div>
                         <div class="col-md-6">
-                            <iframe src="assets/pdf/ModalsPDF/GestiondeProjetMairie.pdf"
+                            <iframe src="assets/pdf/ModalsPDF/GestionDeProjetMairie.pdf"
                                     style="height: 450px; width: 450px;" allowfullscreen></iframe>
                         </div>
                     </div>
