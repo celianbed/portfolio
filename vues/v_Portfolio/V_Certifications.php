@@ -1,6 +1,6 @@
 <section id="Certifications" class=" align-items-center mn-3 col-sm-auto col-xl-auto offset-md-2">
-    <div class="container">   ** <h2>Mes Certifications et Formations</h2><br>
-
+    <div class="container">
+        <h2>Mes Certifications et Formations</h2><br>
         <div class="row no-gutters">
             <div class="col-sm"></div>
             <div class="col-sm-1 text-center flex-column d-none d-sm-flex">
