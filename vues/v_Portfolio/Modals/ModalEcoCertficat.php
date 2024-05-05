@@ -7,24 +7,28 @@
             </div>
             <div class="modal-body">
                 <div class="sujet">
-                    <h5><u>L'entreprise : </u></h5><br>
+                    <h5><u>L'entreprise</u></h5><br>
 
                     Le Bio, ou l'agriculture biologique, gagne en popularité en France, avec de nombreux consommateurs
                     qui se tournent vers cette option pour une alimentation plus saine et respectueuse de
                     l'environnement.<br>
                     La certification bio est réglementée par le Ministère de l'Agriculture, de l'Agroalimentaire et de
                     la Forêt, et est soumise à des contrôles effectués par des organismes certificateurs indépendants
-                    agréés par les autorités françaises. Ces organismes, tels que QUALISUD, CERTIPAQ, <b><i>ECOCERT</i></b>, sont
+                    agréés par les autorités françaises. Ces organismes, tels que QUALISUD, CERTIPAQ, <b><i>ECOCERT</i></b>,
+                    sont
                     chargés de vérifier que les producteurs respectent les normes définies pour l'agriculture
                     biologique.<br>
 
-                    Le <b><i>Groupe Ecocert</i></b> est une entreprise indépendante et structurée par secteur d'activité. Depuis sa
-                    création, <b><i>Ecocert</i></b> est une entreprise indépendante qui reste fidèle à ses convictions.<br><br>
+                    Le <b><i>Groupe Ecocert</i></b> est une entreprise indépendante et structurée par secteur
+                    d'activité. Depuis sa
+                    création, <b><i>Ecocert</i></b> est une entreprise indépendante qui reste fidèle à ses
+                    convictions.<br><br>
 
                     <b><i>ECOCERT</i></b> propose son expertise dans 4 domaines d'activités complémentaires :<br><br>
                     <ul>
                         <li>
-                            Le contrôle et la certification de produits, systèmes et services <b><i>Ecocert</i></b> contrôle et
+                            Le contrôle et la certification de produits, systèmes et services <b><i>Ecocert</i></b>
+                            contrôle et
                             certifie des
                             produits, systèmes et services selon des référentiels publics ou privés. Des audits de
                             surveillance
@@ -46,7 +50,7 @@
                 </div>
                 <br>
                 <div class="description">
-                    <h5><u>Description du projet : </u></h5><br>
+                    <h5><u>Description du projet</u></h5><br>
                     <p>
                         Lors du troisième semestre, j'ai réalisé un projet appelé "Ecocert-Certificat".
                         J'ai pu découvrir le FrameWork CodeIgniter qui est un FrameWork PHP, il nous a permit de
@@ -61,7 +65,7 @@
                 </div>
                 <br>
                 <div class="EnvDev">
-                    <h5><u>Environnement de développement :</u></h5><br>
+                    <h5><u>Environnement de développement</u></h5><br>
                     <ul>
                         <li><b>Front-End : </b> HTML/CSS ainsi que le FrameWork Bootstrap 5</li>
                         <li><b>Back-End : </b>Code Igniter et Jquery</li>
@@ -80,78 +84,70 @@
                 </div>
                 <br>
                 <div class="BDD">
-                    <h5><u>La base de données : </u></h5><br>
+                    <h5><u>La base de données</u></h5><br>
                     <p>Pour créer et gérer les données de l'application, nous avons utilisé une base de données SQL
                         Server.
                         La modélisation de la base de données a été réalisée de manière à stocker les différentes
-                        informations des certificats, etc. Celle-ci nous a directement été fournie. Nous avons juste dû gérer les utilisateurs
+                        informations des certificats, etc. Celle-ci nous a directement été fournie. Nous avons juste dû
+                        gérer les utilisateurs avec leurs droits, etc.
                     </p>
                     <div class="row mb-8 d-flex justify-content-center">
-                        <div class="col-md-4">
-                            <div class="mt-4 d-flex justify-content-center">
-                                <a class=" d-flex justify-content-center my-button"
-                                   href="assets/pdf/ModalsPDF/MIILENUITDocTechniqueBDD.pdf" target="_blank">
-                                    Analyse de l'évolution de la bdd&nbsp;<i class="bi bi-box-arrow-up-right"></i></a>
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="mt-4 d-flex justify-content-center">
-                                <a class=" d-flex justify-content-center my-button"
-                                   href="assets/img/Modals/Millenuit/MILLENUITSchemaBDD.png">
-                                    Voir le nouveau schéma relationnel&nbsp;<span
-                                            class="bi bi-box-arrow-up-right"></span></a>
-                            </div>
+                        <div class="mt-4 d-flex justify-content-center">
+                            <a class=" d-flex justify-content-center my-button2"
+                               href="assets/img/Modals/Ecocert/BDDEcocert.png">
+                                Voir le schéma relationnel&nbsp;<span
+                                        class="bi bi-box-arrow-up-right"></span></a>
                         </div>
                     </div>
-                    <div class="GestionProjet">
-                        <h5><u>La gestion de projet: </u></h5><br>
-                        <p>Le projet est réalisé selon la méthode Agile, où les tâches sont rangées dans des
-                            tableaux.<br>
-                            L'outil de gestion de projet utilisé est Jira.
-                            Chaque ticket est disponible dans ce que l'ont appel la "BackLog".
-                            On a la possibilité de déplacé les tickets dans différente partie du sprint selon
-                            l'avancement du ticket.
-                        </p><br>
-                        <div class="mt-4">
-                            <a class="my-button"
-                               href="https://slam-equipe-celian-plc.atlassian.net/jira/software/projects/JGCEC/boards/1/backlog?atlOrigin=eyJpIjoiNWUxMDljY2I2NGY3NGRiMTkwZjAzYjI5NzU2ZjZkMmEiLCJwIjoiaiJ9">
-                                Voir la BackLog&nbsp;<span class="bi bi-box-arrow-up-right"></span></a>
-                        </div>
-                        <div class="img">
-                            <img src="assets/img/Modals/Stages/HM/Jira.png" style="width: 200px; height: 70px" alt="logo Jira">
+                </div>
+                <div class="GestionProjet">
+                    <h5><u>La gestion de projet</u></h5><br>
+                    <p>Le projet est réalisé selon la méthode Agile, où les tâches sont rangées dans des
+                        tableaux.<br>
+                        L'outil de gestion de projet utilisé est Jira.
+                        Chaque ticket est disponible dans ce que l'ont appel la "BackLog".
+                        On a la possibilité de déplacé les tickets dans différente partie du sprint selon
+                        l'avancement du ticket. Pour réaliser ce projet nous étions 3. Nous nous sommes attribué des
+                        tâches de base, puis une fois la fonctionnalité développée et validé nous nous attribuions une
+                        autre.<br>
+                        Voici toute les tâches que nous devions réalisé (Malheureusement nous n'avons pas eu le temps de
+                        tout terminer) :
+                    </p><br>
+                    <div class="mt-4">
+                        <a class="my-button2"
+                           href="https://slam-equipe-celian-plc.atlassian.net/jira/software/projects/JGCEC/boards/1/backlog?atlOrigin=eyJpIjoiNWUxMDljY2I2NGY3NGRiMTkwZjAzYjI5NzU2ZjZkMmEiLCJwIjoiaiJ9">
+                            Voir la BackLog&nbsp;<span class="bi bi-box-arrow-up-right"></span></a>
+                    </div>
+                    <div class="img">
+                        <img src="assets/img/Modals/Stages/HM/Jira.png" style="width: 200px; height: 70px"
+                             alt="logo Jira">
 
-                        </div>
                     </div>
-                    <br>
-                    <div class="Missions">
-                        <h5><u>Les missions : </u></h5><br>
-                        <p>Afin de mener à bien le projet nous devions donner des livrables à des dates précises. Nous
-                            nous sommes partagé les différentes tâches à réaliser dans chacun des livrables, ce qu'on
-                            appel des tickets.
-                        </p>
-                        <h6>Mes tickets : </h6>
-                        <p>Après la répartitons des fonctionalités j'avais donc des tâches à réaliser : </p>
+                </div>
+                <br>
+                <div class="carousel-ecocert">
+                    <h5><u>Images de l'application</u></h5><br>
+                    <?php include 'Tableau/Ecocert/Caroussel-Ecocert.php'?>
+                </div>
+                <div class="recette">
+                    <h5><u>Exemple de recette</u></h5><br>
+                    <p> Pour merge une fonctionnalitée sur la branche principal on recettaient les différentes fonctionnlaitées. Voici un exemple de fiche recette pour 3 fonctionnalitées</p>
+                    <div class="mt-4 ">
+                        <a id="cv" class="my-button2" href="assets/pdf/ModalsPDF/FicheRecette.pdf"
+                           target="_blank">
+                            Voir la fiche recette</a>
                     </div>
-                    <br>
-                    <div class="tableauTaches">
-                        <div class="mt-4 ">
-                            <a class="my-button" href="#" data-bs-toggle="collapse"
-                               data-bs-target="#taches" aria-expanded="false">
-                                <i class="bi bi-chevron-down"></i>&nbsp;Voir les fonctionnalités réalisées</a>
-                        </div>
-                        <div class="collapse" id="taches">
-                            <?php include 'Tableau/Millenuit/TableauTaches.php'; ?>
-                        </div>
+                </div>
+                <br>
+                <div class="tableauCompetences">
+                    <h5><u>Les compétences travaillées durant ce projet</u></h5><br>
+                    <div class="mt-4 ">
+                        <a class="my-button2" href="#" data-bs-toggle="collapse"
+                           data-bs-target="#competences" aria-expanded="false">
+                            <i class="bi bi-chevron-down"></i>&nbsp;Voir les compétences mobilisées</a>
                     </div>
-                    <div class="tableauCompetences">
-                        <div class="mt-4 ">
-                            <a class="my-button" href="#" data-bs-toggle="collapse"
-                               data-bs-target="#competences" aria-expanded="false">
-                                <i class="bi bi-chevron-down"></i>&nbsp;Voir les compétences mobilisées</a>
-                        </div>
-                        <div class="collapse" id="competences">
-                            <?php include 'Tableau/Millenuit/TableauCompetences.php'; ?>
-                        </div>
+                    <div class="collapse" id="competences">
+                        <?php include 'Tableau/Millenuit/TableauCompetences.php'; ?>
                     </div>
                 </div>
             </div>

@@ -69,14 +69,14 @@
                     <div class="row mb-8 d-flex justify-content-center">
                         <div class="col-md-4">
                             <div class="mt-4 d-flex justify-content-center">
-                                <a class=" d-flex justify-content-center my-button"
+                                <a class=" d-flex justify-content-center my-button2"
                                    href="assets/pdf/ModalsPDF/MIILENUITDocTechniqueBDD.pdf" target="_blank">
                                     Analyse de l'évolution de la bdd&nbsp;<i class="bi bi-box-arrow-up-right"></i></a>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="mt-4 d-flex justify-content-center">
-                                <a class=" d-flex justify-content-center my-button"
+                                <a class=" d-flex justify-content-center my-button2"
                                    href="assets/img/Modals/Millenuit/MILLENUITSchemaBDD.png">
                                     Voir le nouveau schéma relationnel&nbsp;<span
                                             class="bi bi-box-arrow-up-right"></span></a>
@@ -110,7 +110,7 @@
                     <br>
                     <div class="tableauTaches">
                         <div class="mt-4 ">
-                            <a class="my-button" href="#" data-bs-toggle="collapse"
+                            <a class="my-button2" href="#" data-bs-toggle="collapse"
                                data-bs-target="#taches" aria-expanded="false">
                                 <i class="bi bi-chevron-down"></i>&nbsp;Voir les fonctionnalités réalisées</a>
                         </div>
@@ -120,7 +120,7 @@
                     </div>
                     <div class="tableauCompetences">
                         <div class="mt-4 ">
-                            <a class="my-button" href="#" data-bs-toggle="collapse"
+                            <a class="my-button2" href="#" data-bs-toggle="collapse"
                                data-bs-target="#competences" aria-expanded="false">
                                 <i class="bi bi-chevron-down"></i>&nbsp;Voir les compétences mobilisées</a>
                         </div>

@@ -14,7 +14,7 @@
                 <div class="card col-md-4 ">
                     <img src="assets/img/ecocert.png" class="card-img-top" alt="ecocertProjet">
                     <div class="card-body  ecocert" >
-                        <h5 class="card-title">Ecocert- Certificats</h5>
+                        <h5 class="card-title">Ecocert - Certificats</h5>
                         <a data-bs-target="#ModalCertificat" data-bs-toggle="modal" class="btn btn-primary btnCard">En savoir plus</a>
                     </div>
                 </div>

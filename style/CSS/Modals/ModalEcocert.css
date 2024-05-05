@@ -1,0 +1,8 @@
+.carousel-caption h5 {
+    color: black;
+}
+
+/* Pour changer la couleur du texte dans les balises <p> */
+.carousel-caption p {
+    color: black;
+}
