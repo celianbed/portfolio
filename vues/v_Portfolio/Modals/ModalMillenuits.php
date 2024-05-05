@@ -112,7 +112,7 @@
                         <div class="mt-4 ">
                             <a class="my-button2" href="#" data-bs-toggle="collapse"
                                data-bs-target="#taches" aria-expanded="false">
-                                <i class="bi bi-chevron-down"></i>&nbsp;Voir les fonctionnalités réalisées</a>
+                                <i id="chevronIcon" class="bi bi-chevron-right"></i>&nbsp;Voir les fonctionnalités réalisées</a>
                         </div>
                         <div class="collapse" id="taches">
                             <?php include 'Tableau/Millenuit/TableauTaches.php'; ?>
@@ -122,7 +122,7 @@
                         <div class="mt-4 ">
                             <a class="my-button2" href="#" data-bs-toggle="collapse"
                                data-bs-target="#competences" aria-expanded="false">
-                                <i class="bi bi-chevron-down"></i>&nbsp;Voir les compétences mobilisées</a>
+                                <i id="chevronIcon" class="bi bi-chevron-right"></i>&nbsp;Voir les compétences mobilisées</a>
                         </div>
                         <div class="collapse" id="competences">
                             <?php include 'Tableau/Millenuit/TableauCompetences.php'; ?>
@@ -133,4 +133,3 @@
         </div>
     </div>
 </div>
-

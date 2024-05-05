@@ -71,7 +71,7 @@
         </div>
         <div class="tableauSynthèse">
             <div class="mt-4 d-flex justify-content-center">
-                <a class=" d-flex justify-content-center my-button" href="assets/pdf/CélianTableauDeSynthèse.pdf" target="_blank">
+                <a class=" d-flex justify-content-center my-button" href="assets/pdf/CelianTableauDeSynthese.pdf" target="_blank">
                     Consulter mon tableau de synthèse des réalisations professionnelles </a>
             </div>
         </div>

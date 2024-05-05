@@ -12,7 +12,8 @@
                         Lors de ma première année de BTS, j'ai réalisé un stage en entreprise du 25 mai au 28 juin
                         2023, qui a été ma première expérience professionnelle dans le milieu du développement
                         informatique. Grâce à ce stage, j'ai découvert un nouveau langage de programmation nommé
-                        "Wlangage" et une API appelée "Leaflet".<br> L'application sur laquelle j'ai travaillé est appelée
+                        "Wlangage" et une API appelée "Leaflet".<br> L'application sur laquelle j'ai travaillé est
+                        appelée
                         "Aristé Mobile", elle permet aux Jardiniers de la ville de Tours d'inventorier les arbres et
                         ainsi de mieux les repérer grâce à une carte. J'ai aussi pu découvrir le fonctionnement des
                         différents types d'équipes en entreprise ainsi que la gestion d'un projet notamment grâce à
@@ -55,6 +56,14 @@
                     <div class="row">
                         <div class="col-md-6 ">
                             <p>
+
+                                La gestion du patrimoine informatique consiste à administrer et à maintenir efficacement
+                                tous les actifs informatiques d'une organisation, y compris le matériel, les logiciels,
+                                les données et les infrastructures. Cela implique la planification stratégique, la
+                                surveillance des performances, la gestion des risques, la sécurité des données et la
+                                mise en œuvre de pratiques de gouvernance pour garantir l'efficacité opérationnelle et
+                                la conformité réglementaire.
+                                <br><br>
                                 Grâce à ce stage, j'ai pu découvrir et de participer à divers aspects de la gestion
                                 informatique au sein de la mairie de Tours,
                                 notamment la gestion du patrimoine, la configuration des postes, le développement

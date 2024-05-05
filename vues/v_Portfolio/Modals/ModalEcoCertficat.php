@@ -71,8 +71,6 @@
                         <li><b>Back-End : </b>Code Igniter et Jquery</li>
                         <li><b>Données : </b>SQL Server 2022 -> géré par Sql Server Management Studio</li>
                         <li><b>Serveur : </b> Serveur Web Apache version 2.4.56</li>
-                        <li><b>Back-End : </b>Code Igniter et Jquery</li>
-                        <li><b>Données : </b>SQL Server 2022 -> géré par Sql Server Management Studio</li>
                     </ul>
                     <br>
                     <div class="img">
@@ -126,12 +124,13 @@
                 </div>
                 <br>
                 <div class="carousel-ecocert">
-                    <h5><u>Images de l'application</u></h5><br>
-                    <?php include 'Tableau/Ecocert/Caroussel-Ecocert.php'?>
+                    <h5><u>Captures de l'application</u></h5><br>
+                    <?php include 'Tableau/Ecocert/Caroussel-Ecocert.php' ?>
                 </div>
                 <div class="recette">
                     <h5><u>Exemple de recette</u></h5><br>
-                    <p> Pour merge une fonctionnalitée sur la branche principal on recettaient les différentes fonctionnlaitées. Voici un exemple de fiche recette pour 3 fonctionnalitées</p>
+                    <p> Pour merge une fonctionnalitée sur la branche principale on recettaient les différentes
+                        fonctionnalités. Voici un exemple de fiche recette pour 3 fonctionnalités</p>
                     <div class="mt-4 ">
                         <a id="cv" class="my-button2" href="assets/pdf/ModalsPDF/FicheRecette.pdf"
                            target="_blank">
@@ -141,17 +140,17 @@
                 <br>
                 <div class="tableauCompetences">
                     <h5><u>Les compétences travaillées durant ce projet</u></h5><br>
-                    <div class="mt-4 ">
-                        <a class="my-button2" href="#" data-bs-toggle="collapse"
-                           data-bs-target="#competences" aria-expanded="false">
-                            <i class="bi bi-chevron-down"></i>&nbsp;Voir les compétences mobilisées</a>
+                    <div class="mt-4">
+                        <a class="my-button2" href="#" data-bs-toggle="collapse" data-bs-target="#competences"
+                           aria-expanded="false">
+                            <i id="chevronIcon" class=" chevronIcon bi bi-chevron-right"></i>&nbsp;Voir les compétences mobilisées
+                        </a>
                     </div>
                     <div class="collapse" id="competences">
-                        <?php include 'Tableau/Millenuit/TableauCompetences.php'; ?>
+                        <?php include 'Tableau/Ecocert/TableauCompetences.php'; ?>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
-
