@@ -105,10 +105,12 @@
                         L'outil de gestion de projet utilisé est Jira.
                         Chaque ticket est disponible dans ce que l'ont appel la "BackLog".
                         On a la possibilité de déplacé les tickets dans différente partie du sprint selon
-                        l'avancement du ticket. Pour réaliser ce projet nous étions 3. Nous nous sommes attribué des
-                        tâches de base, puis une fois la fonctionnalité développée et validé nous nous attribuions une
-                        autre.<br>
-                        Voici toute les tâches que nous devions réalisé (Malheureusement nous n'avons pas eu le temps de
+                        l'avancement du ticket. Pour réaliser ce projet, nous étions 3. Nous nous sommes attribué des
+                        tâches de base, puis une fois la fonctionnalité développée et validée, nous nous attribuions une
+                        autre.<br> Concernant le "Versionning", nous avons utilisé BitBucket qui nous permettait de ce
+                        partager le code et la différente version de l'application
+                        Voici toutes les tâches que nous devions réaliser (Malheureusement, nous n'avons pas eu le temps
+                        de
                         tout terminer) :
                     </p><br>
                     <div class="mt-4">
@@ -117,8 +119,9 @@
                             Voir la BackLog&nbsp;<span class="bi bi-box-arrow-up-right"></span></a>
                     </div>
                     <div class="img">
-                        <img src="assets/img/Modals/Stages/HM/Jira.png" style="width: 200px; height: 70px"
+                        <img src="assets/img/Modals/Stages/HM/Jira.png" style="width: 150px; height: 50px"
                              alt="logo Jira">
+                        <img src="assets/img/Modals/Ecocert/BitBucket.png" style="width: 300px; height: 50px">
 
                     </div>
                 </div>
@@ -134,7 +137,7 @@
                     <div class="mt-4 ">
                         <a id="cv" class="my-button2" href="assets/pdf/ModalsPDF/FicheRecette.pdf"
                            target="_blank">
-                            Voir la fiche recette</a>
+                            Voir la fiche recette <span class="bi bi-box-arrow-up-right"></span></a>
                     </div>
                 </div>
                 <br>
@@ -143,7 +146,8 @@
                     <div class="mt-4">
                         <a class="my-button2" href="#" data-bs-toggle="collapse" data-bs-target="#competences"
                            aria-expanded="false">
-                            <i id="chevronIcon" class=" chevronIcon bi bi-chevron-right"></i>&nbsp;Voir les compétences mobilisées
+                            <i id="chevronIcon" class=" chevronIcon bi bi-chevron-right"></i>&nbsp;Voir les compétences
+                            mobilisées
                         </a>
                     </div>
                     <div class="collapse" id="competences">
