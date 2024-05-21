@@ -1,4 +1,4 @@
-<div class="modal fade" id="ModalSimulation" tabindex="-1" aria-hidden="true">
+    <div class="modal fade" id="ModalSimulation" tabindex="-1" aria-hidden="true">
     <div class="modal-dialog  modal-xl">
         <div class="modal-content">
             <div class="modal-header">
@@ -93,7 +93,7 @@
                         <div class="col-md-6">
                             <div class="mt-4 d-flex">
                                 <a class=" d-flex justify-content-center my-button2"
-                                   href="assets/img/Modals/Ecocert/Simulateur/BDDBase.png">
+                                   href="assets/img/Modals/Ecocert/Simulateur/BDDBase.png" target="_blank">
                                     Avant l'évolution &nbsp;<span
                                             class="bi bi-box-arrow-up-right"></span></a>
                             </div>
@@ -101,13 +101,13 @@
                         <div class="col-md-6">
                             <div class="mt-4 d-flex">
                                 <a class=" d-flex justify-content-center my-button2"
-                                   href="assets/img/Modals/Ecocert/Simulateur/BDDUp.png">Evolution avec hibernate &nbsp;<span
+                                   href="assets/img/Modals/Ecocert/Simulateur/BDDUp.png" target="_blank">Evolution avec hibernate &nbsp;<span
                                             class="bi bi-box-arrow-up-right"></span></a>
                             </div>
                             <br>
                             <div class="mt-4 d-flex">
                                 <a class=" d-flex justify-content-center my-button2"
-                                   href="assets/img/Modals/Ecocert/Simulateur/Annotations.png">Exemple d'annotation pour
+                                   href="assets/img/Modals/Ecocert/Simulateur/Annotations.png"  target="_blank">Exemple d'annotation pour
                                     la table&nbsp; <b><i>Parcelle</i></b></a</t> &nbsp;<span
                                         class="bi bi-box-arrow-up-right"></span></a>
                             </div>
@@ -129,7 +129,7 @@
                 <br>
                 <div class="carousel-ecocert">
                     <h5><u>Captures de l'application</u></h5><br>
-                    <?php include 'Tableau/Ecocert/Caroussel-Ecocert.php' ?>
+                    <?php include 'Tableau/Ecocert/simulateur/Caroussel-Ecocert.php' ?>
                 </div>
                 <div class="recette">
                     <h5><u>Exemple de recette</u></h5><br>
@@ -138,7 +138,7 @@
                     <div class="mt-4 ">
                         <a id="cv" class="my-button2" href="assets/pdf/ModalsPDF/FicheRecette.pdf"
                            target="_blank">
-                            Voir la fiche recette <span class="bi bi-box-arrow-up-right"></span></a>
+                            Voir la fiche recette &nbsp;<span class="bi bi-box-arrow-up-right"></span></a>
                     </div>
                 </div>
                 <br>

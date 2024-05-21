@@ -52,14 +52,16 @@
                 <div class="description">
                     <h5><u>Description du projet</u></h5><br>
                     <p>
-                        Lors du troisième semestre, j'ai réalisé un projet appelé "Ecocert-Certificat".
-                        J'ai pu découvrir le FrameWork CodeIgniter qui est un FrameWork PHP, il nous a permit de
-                        developer plus facilement notre application,
-                        notamment au niveau de la sécurité, car ce FrameWork dispose déja de méthode qui permettent de
-                        sécuriser une application
-                        Web.<br>
-                        J'ai aussi découvert le FrameWork Hibernate, qui permet de créer une base de donnée via des
-                        classes métiers et leurs annotations.
+
+                        Cette application permet aux différents agriculteur de consulter leurs parcelles et
+                        d'éventuellement ajouter des traitement à celle-ci. Ils peuvent ajouter des traitements qui sont
+                        déja
+                        existant ou qui n'existent pas encore au niveau de leurs parcelles.<br>
+
+                        Pendant le dernier semestre de mon BTS j'ai réalisé un dernier projet avec le langage Java mais
+                        sous Android. J'ai donc découvert pour la première fois le développement Andoid ainsi que son
+                        environnement. J'ai pu aussi découvrir l'IDE <i><b>Android Studio</b></i></b> qui est très
+                        puissant.
 
                     </p>
                 </div>
@@ -67,17 +69,19 @@
                 <div class="EnvDev">
                     <h5><u>Environnement de développement</u></h5><br>
                     <ul>
-                        <li><b>Front-End : </b> HTML/CSS ainsi que le FrameWork Bootstrap 5</li>
-                        <li><b>Back-End : </b>Code Igniter et Jquery</li>
-                        <li><b>Données : </b>SQL Server 2022 -> géré par Sql Server Management Studio</li>
-                        <li><b>Serveur : </b> Serveur Web Apache version 2.4.56</li>
+                        <li><b>Front-End : </b>XML à l'aide d'Android Studio</li>
+                        <li><b>Back-End : </b>JDK (Java Development Kit) version "21.0.1" 2023-10-17 LTS -> Java</li>
+                        </li>
+                        <li><b>Données : </b>SQLite version 3.32 géré dans Android Studio</li>
+                        <li><b>IDE : </b>Android Studio Hedgehog | 2023.1.1 (novembre 2023)</li>
+
                     </ul>
                     <br>
                     <div class="img">
-                        <img src="assets/img/Modals/Millenuit/MILLENUITbootstrap.png" alt="photo bootstrap">
-                        <img src="assets/img/Modals/Millenuit/MILLENUITjquery.png" alt="photo jquery">
-                        <img src="assets/img/Modals/Ecocert/SQLServer.png" alt="photo  SQLServer">
-                        <img src="assets/img/Modals/Ecocert/codeIgniter.png" alt="photo Code Igniter">
+                        <img src="assets/img/Modals/Ecocert/Traitement/Java.png" alt="">
+                        <img src="assets/img/Modals/Ecocert/Traitement/Android_Studio.png" alt="">
+                        <img src="assets/img/Modals/Ecocert/Traitement/SQLite.png" alt="">
+                        <img src="assets/img/Modals/Ecocert/Traitement/XML.png" alt="">
                     </div>
                 </div>
                 <br>
@@ -94,7 +98,7 @@
                             <a class=" d-flex justify-content-center my-button2"
                                href="assets/img/Modals/Ecocert/BDDEcocert.png">
                                 Voir le schéma relationnel&nbsp;<span
-                                    class="bi bi-box-arrow-up-right"></span></a>
+                                        class="bi bi-box-arrow-up-right"></span></a>
                         </div>
                     </div>
                 </div>
@@ -143,7 +147,8 @@
                     <div class="mt-4">
                         <a class="my-button2" href="#" data-bs-toggle="collapse" data-bs-target="#competences"
                            aria-expanded="false">
-                            <i id="chevronIcon" class=" chevronIcon bi bi-chevron-right"></i>&nbsp;Voir les compétences mobilisées
+                            <i id="chevronIcon" class=" chevronIcon bi bi-chevron-right"></i>&nbsp;Voir les compétences
+                            mobilisées
                         </a>
                     </div>
                     <div class="collapse" id="competences">

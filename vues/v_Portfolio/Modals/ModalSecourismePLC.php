@@ -33,7 +33,7 @@
                 <div class="EnvDev">
                     <h5><u>Environnement de développement</u></h5><br>
                     <ul>
-                        <li><b>Front-End / Back-End </b>WordPress</li>
+                        <li><b>Front-End / Back-End : </b>WordPress</li>
                         <li><b>Données : </b>PhpMyAdmin → MySql</li>
                         <li><b>Serveur : </b> Serveur Web Apache version 2.4.56</li>
                     </ul>
@@ -81,7 +81,7 @@
                     <div class="mt-4 ">
                         <a id="cv" class="my-button2" href="assets/pdf/ModalsPDF/FicheRecette.pdf"
                            target="_blank">
-                            Voir la fiche recette <span class="bi bi-box-arrow-up-right"></span></a>
+                            Voir la fiche recette &nbsp; <span class="bi bi-box-arrow-up-right"></span></a>
                     </div>
                 </div>
                 <br>

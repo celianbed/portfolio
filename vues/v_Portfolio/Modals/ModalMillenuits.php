@@ -77,7 +77,7 @@
                         <div class="col-md-4">
                             <div class="mt-4 d-flex justify-content-center">
                                 <a class=" d-flex justify-content-center my-button2"
-                                   href="assets/img/Modals/Millenuit/MILLENUITSchemaBDD.png">
+                                   href="assets/img/Modals/Millenuit/MILLENUITSchemaBDD.png"  target="_blank">
                                     Voir le nouveau schéma relationnel&nbsp;<span
                                             class="bi bi-box-arrow-up-right"></span></a>
                             </div>
@@ -90,7 +90,7 @@
                             L'outil de gestion de projet utilisé est Trello.
                         </p><br>
                         <div class="mt-4">
-                            <a class="my-button" href="assets/img/Modals/Millenuit/MILLENUITTrello.png">
+                            <a class="my-button" href="assets/img/Modals/Millenuit/MILLENUITTrello.png"  target="_blank" >
                                 Voir le tableu Trello&nbsp;<span class="bi bi-box-arrow-up-right"></span></a>
                         </div>
                         <div class="img">

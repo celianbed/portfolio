@@ -92,7 +92,7 @@
                     <div class="row mb-8 d-flex justify-content-center">
                         <div class="mt-4 d-flex justify-content-center">
                             <a class=" d-flex justify-content-center my-button2"
-                               href="assets/img/Modals/Ecocert/BDDEcocert.png">
+                               href="assets/img/Modals/Ecocert/BDDEcocert.png"  target="_blank">
                                 Voir le schéma relationnel&nbsp;<span
                                         class="bi bi-box-arrow-up-right"></span></a>
                         </div>
@@ -115,7 +115,7 @@
                     </p><br>
                     <div class="mt-4">
                         <a class="my-button2"
-                           href="https://slam-equipe-celian-plc.atlassian.net/jira/software/projects/JGCEC/boards/1/backlog?atlOrigin=eyJpIjoiNWUxMDljY2I2NGY3NGRiMTkwZjAzYjI5NzU2ZjZkMmEiLCJwIjoiaiJ9">
+                           href="https://slam-equipe-celian-plc.atlassian.net/jira/software/projects/JGCEC/boards/1/backlog?atlOrigin=eyJpIjoiNWUxMDljY2I2NGY3NGRiMTkwZjAzYjI5NzU2ZjZkMmEiLCJwIjoiaiJ9" target="_blank">
                             Voir la BackLog&nbsp;<span class="bi bi-box-arrow-up-right"></span></a>
                     </div>
                     <div class="img">
@@ -128,7 +128,7 @@
                 <br>
                 <div class="carousel-ecocert">
                     <h5><u>Captures de l'application</u></h5><br>
-                    <?php include 'Tableau/Ecocert/Caroussel-Ecocert.php' ?>
+                    <?php include 'Tableau/Ecocert/certificat/Caroussel-Ecocert.php' ?>
                 </div>
                 <div class="recette">
                     <h5><u>Exemple de recette</u></h5><br>
@@ -151,7 +151,7 @@
                         </a>
                     </div>
                     <div class="collapse" id="competences">
-                        <?php include 'Tableau/Ecocert/TableauCompetences.php'; ?>
+                        <?php include 'Tableau/Ecocert/certificat/TableauCompetences.php'; ?>
                     </div>
                 </div>
             </div>
