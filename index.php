@@ -18,6 +18,7 @@
     <script src="https://code.jquery.com/jquery-3.7.1.min.js"
             integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
     <link rel="icon" href="assets/img/logo.ico">
+    <link rel="stylesheet" href="style/CSS/CSSCard.css">
 </head>
 
 <body class="area">

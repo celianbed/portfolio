@@ -1,0 +1,36 @@
+
+
+ #VeilleTechno {
+     .card {
+         width: 320px;
+         color: black;
+         position: relative;
+         transition: transform 0.4s ease;
+         border: none;
+     }
+
+     .card .card-content {
+         display: flex;
+         flex-direction: column;
+         gap: 5em;
+         height: 100%;
+         transition: transform 0.4s ease;
+     }
+
+     .card:hover {
+         cursor: pointer;
+         transform: scale(0.97);
+     }
+
+     .card:hover .card-content {
+         transform: scale(0.96);
+     }
+
+     .card:hover .card-image svg {
+         transform: scale(1.05);
+     }
+
+     .card:active {
+         transform: scale(0.9);
+     }
+ }

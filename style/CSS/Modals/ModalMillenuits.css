@@ -33,7 +33,7 @@
 
 }
 
-.modal-dialog .img{
+.modal-dialog .img, #VeilleTechno .img{
     display: -webkit-flex;
     justify-content: space-around;
     margin: 30px 0;
