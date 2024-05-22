@@ -1,4 +1,4 @@
-    <div class="modal fade" id="ModalSimulation" tabindex="-1" aria-hidden="true">
+<div class="modal fade" id="ModalSimulation" tabindex="-1" aria-hidden="true">
     <div class="modal-dialog  modal-xl">
         <div class="modal-content">
             <div class="modal-header">
@@ -101,13 +101,15 @@
                         <div class="col-md-6">
                             <div class="mt-4 d-flex">
                                 <a class=" d-flex justify-content-center my-button2"
-                                   href="assets/img/Modals/Ecocert/Simulateur/BDDUp.png" target="_blank">Evolution avec hibernate &nbsp;<span
+                                   href="assets/img/Modals/Ecocert/Simulateur/BDDUp.png" target="_blank">Evolution avec
+                                    hibernate &nbsp;<span
                                             class="bi bi-box-arrow-up-right"></span></a>
                             </div>
                             <br>
                             <div class="mt-4 d-flex">
                                 <a class=" d-flex justify-content-center my-button2"
-                                   href="assets/img/Modals/Ecocert/Simulateur/Annotations.png"  target="_blank">Exemple d'annotation pour
+                                   href="assets/img/Modals/Ecocert/Simulateur/Annotations.png" target="_blank">Exemple
+                                    d'annotation pour
                                     la table&nbsp; <b><i>Parcelle</i></b></a</t> &nbsp;<span
                                         class="bi bi-box-arrow-up-right"></span></a>
                             </div>
@@ -120,7 +122,9 @@
                     <h5><u>La gestion de projet</u></h5><br>
                     <p>Pour ce projet, nous avons décidé de ne pas utiliser de "gestionnaire de projet". Le projet
                         n'ayant pas beaucoup de tâche a réalisé, nous avons exclusivement utilisé un gestionnaire de
-                        version appelé "BitBucket". </p>
+                        version appelé "BitBucket".
+                        J'ai personnellement utilisé Trello pour m'organiser un minimum dans les taches que j'ai
+                        réalisées et terminées.</p>
                     <div class="img">
                         <img src="assets/img/Modals/Ecocert/BitBucket.png" style="width: 300px; height: 50px">
                     </div>

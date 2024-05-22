@@ -89,14 +89,14 @@
                         informations des certificats, etc. Celle-ci nous a directement été fournie. Nous avons juste dû
                         gérer les utilisateurs avec leurs droits, etc.
                     </p>
-                    <div class="row mb-8 d-flex justify-content-center">
-                        <div class="mt-4 d-flex justify-content-center">
-                            <a class=" d-flex justify-content-center my-button2"
+                    <div class="row mb-8">
+                        <div class="mt-4 ">
+                            <a class="my-button2"
                                href="assets/img/Modals/Ecocert/BDDEcocert.png"  target="_blank">
                                 Voir le schéma relationnel&nbsp;<span
                                         class="bi bi-box-arrow-up-right"></span></a>
                         </div>
-                    </div>
+                    </div><br>
                 </div>
                 <div class="GestionProjet">
                     <h5><u>La gestion de projet</u></h5><br>
@@ -104,6 +104,7 @@
                         tableaux.<br>
                         L'outil de gestion de projet utilisé est Jira.
                         Chaque ticket est disponible dans ce que l'ont appel la "BackLog".
+                        Ils ont tous été divisé dans 4 sprints différents.
                         On a la possibilité de déplacé les tickets dans différente partie du sprint selon
                         l'avancement du ticket. Pour réaliser ce projet, nous étions 3. Nous nous sommes attribué des
                         tâches de base, puis une fois la fonctionnalité développée et validée, nous nous attribuions une
@@ -129,16 +130,6 @@
                 <div class="carousel-ecocert">
                     <h5><u>Captures de l'application</u></h5><br>
                     <?php include 'Tableau/Ecocert/certificat/Caroussel-Ecocert.php' ?>
-                </div>
-                <div class="recette">
-                    <h5><u>Exemple de recette</u></h5><br>
-                    <p> Pour merge une fonctionnalitée sur la branche principale on recettaient les différentes
-                        fonctionnalités. Voici un exemple de fiche recette pour 3 fonctionnalités</p>
-                    <div class="mt-4 ">
-                        <a id="cv" class="my-button2" href="assets/pdf/ModalsPDF/FicheRecette.pdf"
-                           target="_blank">
-                            Voir la fiche recette <span class="bi bi-box-arrow-up-right"></span></a>
-                    </div>
                 </div>
                 <br>
                 <div class="tableauCompetences">

@@ -52,18 +52,18 @@
                         Il y a notamment les fichiers de configurations de wordpress ainsi que du site internet. Il sy'
                         trouve aussi les différents login et mot de passe des utilisateurs.
                     </p>
-                    <div class="row mb-8 d-flex justify-content-center">
-                        <div class="mt-4 d-flex justify-content-center">
-                            <a class=" d-flex justify-content-center my-button2"
+                    <div class="row mb-8">
+                        <div class="mt-4 ">
+                            <a class="my-button2"
                                href="assets/img/Modals/SecourismePLC/BDDSecourisme.png" target="_blank">
                                 Voir le schéma relationnel&nbsp;<span
                                         class="bi bi-box-arrow-up-right"></span></a>
                         </div>
-                    </div>
+                    </div><br>
                 </div>
                 <div class="CharteGraphqiue">
                     <h5><u>La charte graphique </u></h5><br>
-                    <p> Pour réaliser la refonte du site internet, il nous a fallu d'abord trouver un thème wordPress
+                    <p> Pour réaliser la refonte du site internet, il nous a fallu d'abord trouver un thème WordPress
                         correspondant au besoin. Puis une fois le thème trouvé, nous avons élaboré une charte graphique.
                         Elle décrit principalement les couleurs que nous avons utilisées pour le site internet, ainsi
                         que sa police d'écriture et son nouveau logo.
@@ -77,7 +77,7 @@
                 <br>
                 <div class="recette">
                     <h5><u>Exemple de recette</u></h5><br>
-                    <p> Pour savoir si notre site correspondait aux attentent du cahier des charges, nous avons recettaient </p>
+                    <p> Pour savoir si notre site correspondait aux attentes du cahier des charges, nous avons recettaient les différentes fonctionnalités.</p>
                     <div class="mt-4 ">
                         <a id="cv" class="my-button2" href="assets/pdf/ModalsPDF/FicheRecette.pdf"
                            target="_blank">

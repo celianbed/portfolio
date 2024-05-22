@@ -57,23 +57,23 @@
                             savoir plus</a>
                     </div>
                 </div>
-                <div class="card col-md-4">
-                    <img src="assets/img/HM.png" class="card-img-top" alt="Stage chez Harmonie Mutuelle">
-                    <div class="card-body">
-                        <h5 class="card-title">Harmonie Mutuelle</h5>
-                        <a data-bs-target="#StageHM" data-bs-toggle="modal" class="btn btn-primary btnCard ">En savoir
-                            plus</a>
+                    <div class="card col-md-4">
+                        <img src="assets/img/HM.png" class="card-img-top" alt="Stage chez Harmonie Mutuelle">
+                        <div class="card-body">
+                            <h5 class="card-title">Harmonie Mutuelle</h5>
+                            <a data-bs-target="#StageHM" data-bs-toggle="modal" class="btn btn-primary btnCard ">En savoir
+                                plus</a>
+                        </div>
                     </div>
-                </div>
                 <!---<div class="vr"></div>-->
-                <div class="card col-md-4">
-                    <img src="assets/img/hebergementweb.jpg" class="card-img-top" alt="hebergementweb">
-                    <div class="card-body">
-                        <h5 class="card-title">Hébergement web </h5>
-                        <a data-bs-target="#Hebergement" data-bs-toggle="modal" class="btn btn-primary btnCard">En
-                            savoir plus</a>
+                    <div class="card col-md-4">
+                        <img src="assets/img/hebergementweb.jpg" class="card-img-top" alt="hebergementweb">
+                        <div class="card-body">
+                            <h5 class="card-title">Hébergement web </h5>
+                            <a data-bs-target="#Hebergement" data-bs-toggle="modal" class="btn btn-primary btnCard">En
+                                savoir plus</a>
+                        </div>
                     </div>
-                </div>
                 <div class="card col-md-4">
                     <img src="assets/img/GenMdp.jpg" class="card-img-top" alt="Générateur de mots de passe">
                     <div class="card-body">
@@ -81,6 +81,10 @@
                         <a data-bs-target="#GenMdp" data-bs-toggle="modal" class="btn btn-primary btnCard">En
                             savoir plus</a>
                     </div>
+                </div>
+                <div class="mt-2 ms-5">
+                    <a class="my-button" data-bs-target="#comparaison" data-bs-toggle="modal">
+                        Comparaison de la gestion du patrimoine informatique </a>
                 </div>
                 <?php include 'Modals/ModalGenMdp.php'; ?>
                 <?php include 'Modals/ModalHebergementWeb.php'; ?>
@@ -91,6 +95,7 @@
                 <?php include 'Modals/ModalEcoSimulation.php'; ?>
                 <?php include 'Modals/ModalEcoTraitement.php'; ?>
                 <?php include 'Modals/ModalSecourismePLC.php';?>
+                <?php include 'Modals/ModalComparaison.php';?>
 
             </div>
 

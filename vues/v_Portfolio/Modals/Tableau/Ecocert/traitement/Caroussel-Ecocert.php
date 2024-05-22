@@ -1,0 +1,40 @@
+<div id="carouselExampleControls" class="carousel divCarousel slide carousel-control-width" data-bs-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="assets/img/Modals/Ecocert/Traitement/menu.png" class="img-fluid h-100 w-100" alt="">
+        </div>
+        <div class="carousel-item active">
+            <img src="assets/img/Modals/Ecocert/Traitement/BDD.png" class="img-fluid h-100 w-100" alt="">
+        </div>
+        <div class="carousel-item active">
+            <img src="assets/img/Modals/Ecocert/Traitement/parcelle.png" class="img-fluid h-100 w-100" alt="">
+        </div>
+        <div class="carousel-item active">
+            <img src="assets/img/Modals/Ecocert/Traitement/parcelleRef.png" class="img-fluid h-100 w-100" alt="">
+        </div>
+        <div class="carousel-item active">
+            <img src="assets/img/Modals/Ecocert/Traitement/traitement.png" class="img-fluid h-100 w-100" alt="">
+        </div>
+        <div class="carousel-item active">
+            <img src="assets/img/Modals/Ecocert/Traitement/ajout_T.png" class="img-fluid h-100 w-100" alt="">
+        </div>
+        <div class="carousel-item active">
+            <img src="assets/img/Modals/Ecocert/Traitement/ajoutTraitement.png" class="img-fluid h-100 w-100" alt="">
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Précédent</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Suivant</span>
+    </button>
+</div>
+
+<style>
+    .divCarousel {
+        width: 55%; /* Définit la largeur du carrousel à 50% de la largeur du conteneur parent */
+        margin: auto; /* Centre le carrousel horizontalement */
+    }
+</style>

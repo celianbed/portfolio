@@ -53,12 +53,12 @@
                     <h5><u>Description du projet</u></h5><br>
                     <p>
 
-                        Cette application permet aux différents agriculteur de consulter leurs parcelles et
-                        d'éventuellement ajouter des traitement à celle-ci. Ils peuvent ajouter des traitements qui sont
+                        Cette application permet au différent agriculteur de consulter leurs parcelles et
+                        d'éventuellement ajouter un traitement à celle-ci. Ils peuvent ajouter des traitements qui sont
                         déja
                         existant ou qui n'existent pas encore au niveau de leurs parcelles.<br>
 
-                        Pendant le dernier semestre de mon BTS j'ai réalisé un dernier projet avec le langage Java mais
+                        Pendant le dernier semestre de mon BTS, j'ai réalisé un dernier projet avec le langage Java mais
                         sous Android. J'ai donc découvert pour la première fois le développement Andoid ainsi que son
                         environnement. J'ai pu aussi découvrir l'IDE <i><b>Android Studio</b></i></b> qui est très
                         puissant.
@@ -87,59 +87,38 @@
                 <br>
                 <div class="BDD">
                     <h5><u>La base de données</u></h5><br>
-                    <p>Pour créer et gérer les données de l'application, nous avons utilisé une base de données SQL
-                        Server.
+                    <p>Pour créer et gérer les données de l'application, nous avons utilisé une base de données SQLite.
                         La modélisation de la base de données a été réalisée de manière à stocker les différentes
-                        informations des certificats, etc. Celle-ci nous a directement été fournie. Nous avons juste dû
-                        gérer les utilisateurs avec leurs droits, etc.
+                        informations des parcelles, etc.
                     </p>
-                    <div class="row mb-8 d-flex justify-content-center">
-                        <div class="mt-4 d-flex justify-content-center">
-                            <a class=" d-flex justify-content-center my-button2"
-                               href="assets/img/Modals/Ecocert/BDDEcocert.png">
-                                Voir le schéma relationnel&nbsp;<span
+                    <div class="row mb-8">
+                        <div class="mt-4">
+                            <a class=" my-button2"
+                               href="assets/img/Modals/Ecocert/Traitement/BDD.png" target="_blank">
+                                Voir les différentes tables de la base de données&nbsp;<span
                                         class="bi bi-box-arrow-up-right"></span></a>
                         </div>
                     </div>
                 </div>
+                <br>
                 <div class="GestionProjet">
                     <h5><u>La gestion de projet</u></h5><br>
-                    <p>Le projet est réalisé selon la méthode Agile, où les tâches sont rangées dans des
-                        tableaux.<br>
-                        L'outil de gestion de projet utilisé est Jira.
-                        Chaque ticket est disponible dans ce que l'ont appel la "BackLog".
-                        On a la possibilité de déplacé les tickets dans différente partie du sprint selon
-                        l'avancement du ticket. Pour réaliser ce projet nous étions 3. Nous nous sommes attribué des
-                        tâches de base, puis une fois la fonctionnalité développée et validé nous nous attribuions une
-                        autre.<br>
-                        Voici toute les tâches que nous devions réalisé (Malheureusement nous n'avons pas eu le temps de
-                        tout terminer) :
-                    </p><br>
-                    <div class="mt-4">
-                        <a class="my-button2"
-                           href="https://slam-equipe-celian-plc.atlassian.net/jira/software/projects/JGCEC/boards/1/backlog?atlOrigin=eyJpIjoiNWUxMDljY2I2NGY3NGRiMTkwZjAzYjI5NzU2ZjZkMmEiLCJwIjoiaiJ9">
-                            Voir la BackLog&nbsp;<span class="bi bi-box-arrow-up-right"></span></a>
-                    </div>
+                    <p>Pour ce projet, je n'ai pas utilisé de "gestionnaire de versionning", comme il s'agit d'un projet
+                        seul, j'ai tout gardé localement sur mon ordinateur.
+                        Quant à la gestion de projet, j'ai utilisé Trello pour m'organiser un minimum dans les taches
+                        que j'ai
+                        réalisées.</p>
                     <div class="img">
-                        <img src="assets/img/Modals/Stages/HM/Jira.png" style="width: 200px; height: 70px"
-                             alt="logo Jira">
+                        <img class="mt-4" src="assets/img/Modals/Ecocert/BitBucket.png" style="width: 300px; height: 50px">
+                        <img src="assets/img/Modals/Millenuit/MILLENUITTrello-Logo.png" style="width: 200px; height: 100px">
 
                     </div>
+
                 </div>
                 <br>
                 <div class="carousel-ecocert">
                     <h5><u>Captures de l'application</u></h5><br>
-                    <?php include 'Tableau/Ecocert/Caroussel-Ecocert.php' ?>
-                </div>
-                <div class="recette">
-                    <h5><u>Exemple de recette</u></h5><br>
-                    <p> Pour merge une fonctionnalitée sur la branche principale on recettaient les différentes
-                        fonctionnalités. Voici un exemple de fiche recette pour 3 fonctionnalités</p>
-                    <div class="mt-4 ">
-                        <a id="cv" class="my-button2" href="assets/pdf/ModalsPDF/FicheRecette.pdf"
-                           target="_blank">
-                            Voir la fiche recette <span class="bi bi-box-arrow-up-right"></span></a>
-                    </div>
+                    <?php include 'Tableau/Ecocert/traitement/Caroussel-Ecocert.php' ?>
                 </div>
                 <br>
                 <div class="tableauCompetences">

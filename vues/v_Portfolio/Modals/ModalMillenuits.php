@@ -1,5 +1,5 @@
 <div class="modal fade" id="ModalMillenuit" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-    <div class="modal-dialog  modal-xl">
+    <div class="modal-dialog modal-xl">
         <div class="modal-content">
             <div class="modal-header">
                 <h1 class="modal-title text-dark fs-5">MILLENUIT</h1>
@@ -61,10 +61,10 @@
                     <h5><u>La base de données : </u></h5><br>
                     <p>Pour créer et gérer les données de l'application, nous avons utilisé une base de données SQL.
                         La modélisation de la base de données a été réalisée de manière à stocker les informations
-                        pertinentes pour chaque informations,
+                        pertinentes pour chaque information,
                         telles que les distributeurs, les commerciaux, ou encore les produits proposés. Nous avions un
-                        début de script de base de donnée
-                        mais il nous a fallut l'améliorer
+                        début de script de base de donnée,
+                        mais il nous a fallu l'améliorer
                     </p>
                     <div class="row mb-8 d-flex justify-content-center">
                         <div class="col-md-4">
@@ -86,7 +86,7 @@
                     <div class="GestionProjet">
                         <h5><u>La gestion de projet: </u></h5><br>
                         <p>Le projet est réalisé selon la méthode Agile, dont les tâches sont rangées dans des
-                            tableaux.<br>
+                            tableaux.<br> Il a été divisé en 2 sprints.
                             L'outil de gestion de projet utilisé est Trello.
                         </p><br>
                         <div class="mt-4">
@@ -102,18 +102,16 @@
                         <h5><u>Les missions : </u></h5><br>
                         <p>Afin de mener à bien le projet, nous devions donner des livrables à des dates précises. Nous
                             nous sommes partagé les différentes tâches à réaliser dans chacun des livrables, ce qu'on
-                            appel des tickets.
+                            appelle des tickets.
                         </p>
                         <h6>Mes tickets : </h6>
                         <p>Après la répartitons des fonctionalités, j'avais donc des tâches à réaliser : </p>
                     </div>
                     <br>
                     <div class="tableauTaches">
-                        <div class="mt-4 ">
                             <a class="my-button2" href="#" data-bs-toggle="collapse"
                                data-bs-target="#taches" aria-expanded="false">
                                 <i id="chevronIcon" class="bi bi-chevron-right"></i>&nbsp;Voir les fonctionnalités réalisées</a>
-                        </div>
                         <div class="collapse" id="taches">
                             <?php include 'Tableau/Millenuit/TableauTaches.php'; ?>
                         </div>
