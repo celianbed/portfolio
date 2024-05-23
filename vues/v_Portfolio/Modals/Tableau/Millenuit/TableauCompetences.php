@@ -30,25 +30,16 @@
             <td></td>
         </tr>
         <tr>
-            <th scope="row">Initiation MVC - Création fenêtre de connexion</th>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>X</td>
-        </tr>
-        <tr>
             <th scope="row">Fonctionnalité "Gestion des comptes-rendus de visite"</th>
             <td></td>
             <td>X</td>
-            <td>X</td>
+            <td></td>
             <td>X</td>
             <td></td>
-            <td></td>
+            <td>X</td>
         </tr>
         <tr>
-            <th scope="row">Tests de l’application</th>
+            <th scope="row">Tests et déploiement de l’application "MILLENUITS_CR" </th>
             <td></td>
             <td></td>
             <td></td>

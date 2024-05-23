@@ -86,19 +86,17 @@
                     <a class="my-button" data-bs-target="#comparaison" data-bs-toggle="modal">
                         Comparaison de la gestion du patrimoine informatique </a>
                 </div>
-                <?php include 'Modals/ModalGenMdp.php'; ?>
-                <?php include 'Modals/ModalHebergementWeb.php'; ?>
-                <?php include 'Modals/ModalStageMairie.php'; ?>
-                <?php include 'Modals/ModalStageHM.php'; ?>
-                <?php include 'Modals/ModalMillenuits.php'; ?>
-                <?php include 'Modals/ModalEcoCertficat.php'; ?>
-                <?php include 'Modals/ModalEcoSimulation.php'; ?>
-                <?php include 'Modals/ModalEcoTraitement.php'; ?>
-                <?php include 'Modals/ModalSecourismePLC.php';?>
-                <?php include 'Modals/ModalComparaison.php';?>
-
             </div>
-
         </div>
     </div>
+        <?php include 'Modals/ModalGenMdp.php'; ?>
+        <?php include 'Modals/ModalHebergementWeb.php'; ?>
+        <?php include 'Modals/ModalStageMairie.php'; ?>
+        <?php include 'Modals/ModalStageHM.php'; ?>
+        <?php include 'Modals/ModalMillenuits.php'; ?>
+        <?php include 'Modals/ModalEcoCertficat.php'; ?>
+        <?php include 'Modals/ModalEcoSimulation.php'; ?>
+        <?php include 'Modals/ModalEcoTraitement.php'; ?>
+        <?php include 'Modals/ModalSecourismePLC.php';?>
+        <?php include 'Modals/ModalComparaison.php';?>
 </section>

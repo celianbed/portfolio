@@ -35,7 +35,15 @@ body{
 .context h2{
     color: white;
 }
+ .divCarousel {
+     width: 55%; /* Définit la largeur du carrousel à 50% de la largeur du conteneur parent */
+     margin: auto; /* Centre le carrousel horizontalement */
+ }
 
+ #VeilleTechno h3{
+
+     color: #545151!important;
+ }
 h1,
 h2 {
     font-family: "Poppins", sans-serif;

@@ -47,6 +47,7 @@
                             reconnu pour son expertise sur les problématiques liées à l'agriculture biologique et à la
                             certification.
                         </li>
+                    </ul>
                 </div>
                 <br>
                 <div class="description">
@@ -84,9 +85,8 @@
                 <div class="BDD">
                     <h5><u>La base de données</u></h5><br>
                     <p>Pour créer et gérer les données de l'application, nous avons utilisé une base de données SQL
-                        Server.
-                        Nous avons eu une ébauche de la base de données, puis grâce aux différentes annotations
-                        hibernate, nous avons pu terminer la base de données pour qu'elle puisse être utilisée
+                        Server. Nous avons eu une ébauche de la base de données, puis grâce aux différentes annotations
+                        hibernate, nous avons pu terminer la base de données pour qu'elle puisse être utilisée.
                     </p>
                     <h6>Voici l'avant et l'après évolution de la base de données : </h6>
                     <div class="row">
@@ -123,10 +123,13 @@
                     <p>Pour ce projet, nous avons décidé de ne pas utiliser de "gestionnaire de projet". Le projet
                         n'ayant pas beaucoup de tâche a réalisé, nous avons exclusivement utilisé un gestionnaire de
                         version appelé "BitBucket".
-                        J'ai personnellement utilisé Trello pour m'organiser un minimum dans les taches que j'ai
+                        J'ai personnellement utilisé Trello pour m'organiser un minimum dans les tâches que j'ai
                         réalisées et terminées.</p>
                     <div class="img">
                         <img src="assets/img/Modals/Ecocert/BitBucket.png" style="width: 300px; height: 50px">
+                        <img src="assets/img/Modals/Millenuit/MILLENUITTrello-Logo.png"
+                             style="width: 200px; height: 100px">
+
                     </div>
 
                 </div>
@@ -137,8 +140,9 @@
                 </div>
                 <div class="recette">
                     <h5><u>Exemple de recette</u></h5><br>
-                    <p> Pour merge une fonctionnalitée sur la branche principale on recettaient les différentes
-                        fonctionnalités. Voici un exemple de fiche recette pour 3 fonctionnalités</p>
+                    <p> Pour merge une fonctionnalité sur la branche principale, on recettaient les différentes
+                        fonctionnalités. Voici un exemple de fiche recette pour 3 fonctionnalités
+                    </p>
                     <div class="mt-4 ">
                         <a id="cv" class="my-button2" href="assets/pdf/ModalsPDF/FicheRecette.pdf"
                            target="_blank">
@@ -156,7 +160,7 @@
                         </a>
                     </div>
                     <div class="collapse" id="competences">
-                        <?php include 'Tableau/Ecocert/TableauCompetences.php'; ?>
+                        <?php include 'Tableau/Ecocert/simulateur/TableauCompetences.php'; ?>
                     </div>
                 </div>
             </div>

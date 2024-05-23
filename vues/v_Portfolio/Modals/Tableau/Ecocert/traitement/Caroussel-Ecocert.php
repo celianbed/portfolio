@@ -31,10 +31,3 @@
         <span class="visually-hidden">Suivant</span>
     </button>
 </div>
-
-<style>
-    .divCarousel {
-        width: 55%; /* Définit la largeur du carrousel à 50% de la largeur du conteneur parent */
-        margin: auto; /* Centre le carrousel horizontalement */
-    }
-</style>

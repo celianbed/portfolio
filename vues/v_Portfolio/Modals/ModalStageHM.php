@@ -28,7 +28,7 @@
                     <h5><u>Objectif : </u></h5><br>
                     <p>
                         Mon objectif principal a donc été d'ajouter une fonctionnalité à cette application.
-                        La fonctionnalité doit permettre aux commerciaux de vérifier si un produit n'est pas déja
+                        La fonctionnalité doit permettre aux commerciaux de vérifier si un produit n'est pas déjà
                         utilisé sur une proposition ou un contrat.
                         Si c'est le cas, alors ils seront affichés pour prévenir le commercial.
 
@@ -79,7 +79,7 @@
                         <div class="col-md-6">
                                     <p>
                                         Avant de commencer le développement de ma fonctionnalité, j'ai dû réaliser les spécifications de celles-ci via confluence,
-                                        qui est un premier outil de gestion de projet
+                                        qui est un premier outil de gestion de <projet class=""></projet>
 
                                         Puis, étant intégré à une équipe Scrum- Agile, j'ai beaucoup travaillé en équipe et j'ai beaucoup utilisé Jira.
                                         Celui-ci permet de créer des tickets et de les gérer facilement en leur attribuant des statues personnaliser.
@@ -103,6 +103,20 @@
                             Voir mon rapport de stage</a>
                         <a href="assets/pdf/ModalsPDF/RapportHebdoHM.pdf" class="my-button2" download>Télécharger mon
                             rapport de stage</a>
+                    </div>
+                </div>
+                <br>
+                <div class="tableauCompetences">
+                    <h5><u>Les compétences travaillées durant ce projet</u></h5><br>
+                    <div class="mt-4">
+                        <a class="my-button2" href="#" data-bs-toggle="collapse" data-bs-target="#competences"
+                           aria-expanded="false">
+                            <i id="chevronIcon" class=" chevronIcon bi bi-chevron-right"></i>&nbsp;Voir les compétences
+                            mobilisées
+                        </a>
+                    </div>
+                    <div class="collapse" id="competences">
+                        <?php include 'Tableau/HM/TableauCompetences.php'; ?>
                     </div>
                 </div>
             </div>

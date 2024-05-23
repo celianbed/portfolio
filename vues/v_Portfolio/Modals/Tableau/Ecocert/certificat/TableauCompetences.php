@@ -22,7 +22,7 @@
     </tr>
     <tr>
         <th scope="row">Mise en place de la base de données "bd_certificat"</th>
-        <td>X</td>
+        <td></td>
         <td>X</td>
         <td></td>
         <td>X</td>
@@ -31,12 +31,12 @@
     </tr>
     <tr>
         <th scope="row">Mise en place de la documentation pour la connexion via SQL Server</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>X</td>
+        <td>X</td>
         <td></td>
         <td>X</td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <th scope="row">Fonctionnalité "Gestion des certificats"</th>
@@ -46,15 +46,6 @@
         <td>X</td>
         <td>X</td>
         <td>X</td>
-    </tr>
-    <tr>
-        <th scope="row">Tests de l’application</th>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>X</td>
-        <td>X</td>
-        <td></td>
     </tr>
     </tbody>
 </table>

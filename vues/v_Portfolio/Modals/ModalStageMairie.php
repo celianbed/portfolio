@@ -118,6 +118,20 @@
                             mon rapport de stage</a>
                     </div>
                 </div>
+                <br>
+                <div class="tableauCompetences">
+                    <h5><u>Les compétences travaillées durant ce stage</u></h5><br>
+                    <div class="mt-4">
+                        <a class="my-button2" href="#" data-bs-toggle="collapse" data-bs-target="#competences"
+                           aria-expanded="false">
+                            <i id="chevronIcon" class=" chevronIcon bi bi-chevron-right"></i>&nbsp;Voir les compétences
+                            mobilisées
+                        </a>
+                    </div>
+                    <div class="collapse" id="competences">
+                        <?php include 'Tableau/Mairie/TableauCompetences.php'; ?>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

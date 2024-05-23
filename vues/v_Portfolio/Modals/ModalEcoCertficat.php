@@ -47,20 +47,18 @@
                             reconnu pour son expertise sur les problématiques liées à l'agriculture biologique et à la
                             certification.
                         </li>
+                    </ul>
                 </div>
                 <br>
                 <div class="description">
                     <h5><u>Description du projet</u></h5><br>
                     <p>
-                        Lors du troisième semestre, j'ai réalisé un projet appelé "Ecocert-Certificat".
-                        J'ai pu découvrir le FrameWork CodeIgniter qui est un FrameWork PHP, il nous a permit de
-                        developer plus facilement notre application,
-                        notamment au niveau de la sécurité, car ce FrameWork dispose déja de méthode qui permettent de
-                        sécuriser une application
-                        Web.<br>
-                        J'ai aussi découvert le FrameWork Hibernate, qui permet de créer une base de donnée via des
+                        Lors du troisième semestre, j'ai réalisé un projet appelé "Ecocert-Certificat". J'ai pu
+                        découvrir le FrameWork CodeIgniter qui est un FrameWork PHP, il nous a permis de développer plus
+                        facilement notre application, notamment au niveau de la sécurité, car ce FrameWork dispose déjà
+                        de méthode qui permettent de sécuriser une application Web.<br>
+                        J'ai aussi découvert le FrameWork Hibernate, qui permet de créer une base de données via des
                         classes métiers et leurs annotations.
-
                     </p>
                 </div>
                 <br>
@@ -100,19 +98,16 @@
                 </div>
                 <div class="GestionProjet">
                     <h5><u>La gestion de projet</u></h5><br>
-                    <p>Le projet est réalisé selon la méthode Agile, où les tâches sont rangées dans des
-                        tableaux.<br>
-                        L'outil de gestion de projet utilisé est Jira.
-                        Chaque ticket est disponible dans ce que l'ont appel la "BackLog".
-                        Ils ont tous été divisé dans 4 sprints différents.
-                        On a la possibilité de déplacé les tickets dans différente partie du sprint selon
-                        l'avancement du ticket. Pour réaliser ce projet, nous étions 3. Nous nous sommes attribué des
-                        tâches de base, puis une fois la fonctionnalité développée et validée, nous nous attribuions une
-                        autre.<br> Concernant le "Versionning", nous avons utilisé BitBucket qui nous permettait de ce
-                        partager le code et la différente version de l'application
-                        Voici toutes les tâches que nous devions réaliser (Malheureusement, nous n'avons pas eu le temps
-                        de
-                        tout terminer) :
+                    <p>Le projet est réalisé selon la méthode Agile, où les tâches sont rangées dans des tableaux.<br>
+                        L'outil de gestion de projet utilisé est Jira. Chaque ticket est disponible dans ce que l'on
+                        appelle la "BackLog". Ils ont tous été divisé dans 4 sprints différents. On a la possibilité de
+                        déplacé les tickets dans différentes parties du sprint selon l'avancement du ticket. Pour
+                        réaliser ce projet, nous étions 3. Nous nous sommes attribué des tâches de base, puis une fois
+                        la fonctionnalité développée et validée, nous nous attribuions une autre.<br> Concernant le
+                        "Versionning", nous avons utilisé BitBucket qui nous permettait de se partager le code et la
+                        différente version de l'application.<br><br>
+                        Voici toutes les tâches que nous devions réaliser
+                        (Malheureusement, nous n'avons pas eu le temps de tout terminer.) :
                     </p><br>
                     <div class="mt-4">
                         <a class="my-button2"
@@ -122,7 +117,8 @@
                     <div class="img">
                         <img src="assets/img/Modals/Stages/HM/Jira.png" style="width: 150px; height: 50px"
                              alt="logo Jira">
-                        <img src="assets/img/Modals/Ecocert/BitBucket.png" style="width: 300px; height: 50px">
+                        <img src="assets/img/Modals/Ecocert/BitBucket.png" style="width: 300px; height: 50px"
+                             alt="logo BitBucket">
 
                     </div>
                 </div>

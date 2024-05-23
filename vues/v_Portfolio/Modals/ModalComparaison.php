@@ -16,59 +16,50 @@
                     <thead>
                     <tr>
                         <th scope="col"></th>
-                        <th scope="col">Gérer le patrimoine informatique</th>
-                        <th scope="col">Répondre aux incidents et aux demandes d’assistance et d’évolution</th>
-                        <th scope="col">Développer la présence en ligne de l’organisation</th>
-                        <th scope="col">Travailler en mode projet</th>
-                        <th scope="col">Mettre à disposition des utilisateurs un service informatique</th>
-                        <th scope="col">Organiser son développement professionnel</th>
+                        <th scope="col">Harmonie Mutuelle &nbsp;<img src="assets/img/HM.png" alt=""></th>
+                        <th scope="col">Mairie de Tours &nbsp;<img src="assets/img/Tours.png" alt=""></th>
                     </tr>
                     </thead>
                     <tbody>
                     <tr>
-                        <th scope="row">Initiation Framework Bootstrap</th>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td>X</td>
+                        <th scope="row">Logiciel de gestion d'incidents</th>
+                        <td>Easy Vista</td>
+                        <td>IWS</td>
                     </tr>
                     <tr>
-                        <th scope="row">Mise en place de la base de données</th>
-                        <td>X</td>
-                        <td>X</td>
-                        <td></td>
-                        <td>X</td>
-                        <td></td>
-                        <td></td>
+                        <th scope="row">Logiciel de gestion de projet</th>
+                        <td>Jira</td>
+                        <td>Project Monitor</td>
                     </tr>
                     <tr>
-                        <th scope="row">Initiation MVC - Création fenêtre de connexion</th>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td>X</td>
+                        <th scope="row">Les frameworks et langages principalement utilisés</th>
+                        <td>Angular & SpringBoot</td>
+                        <td>Wlangage</td>
                     </tr>
                     <tr>
-                        <th scope="row">Fonctionnalité "Gestion des comptes-rendus de visite"</th>
-                        <td></td>
-                        <td>X</td>
-                        <td>X</td>
-                        <td>X</td>
-                        <td></td>
-                        <td></td>
+                        <th scope="row">Méthode utilisée lors des différents projets</th>
+                        <td>Scrum - Agile</td>
+                        <td>Pas de méthode de projet</td>
                     </tr>
                     <tr>
-                        <th scope="row">Tests de l’application</th>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td>X</td>
-                        <td>X</td>
-                        <td></td>
+                        <th scope="row">Renouvellement du matériel informatique</th>
+                        <td>2 ans auparavant puis 7ans maintenant</td>
+                        <td>7 ans et peut-être 8 ans bientôt</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Les normes auxquelles l'entreprise est soumise</th>
+                        <td>ITIL, ISO 9001, IS0 26000, ISO 27001</td>
+                        <td>ITIL</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Migrations des postes</th>
+                        <td>Easy Vista</td>
+                        <td>PC Moover</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Serveur de test/recette</th>
+                        <td>Plusieurs serveurs de test</td>
+                        <td>1 serveur de test</td>
                     </tr>
                     </tbody>
                 </table>

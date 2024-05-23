@@ -28,16 +28,18 @@
                 <div class="description">
                     <h5><u>Description du projet : </u></h5><br>
                     <p>
+                        Pour savoir si notre site correspondait aux attentes du cahier des charges, nous avons
+                        recettaient les différentes fonctionnalités.
+
+
                         En première année, j'ai réalisé un projet appelé "Mille Nuits", qui a été ma première expérience
-                        en PHP.
-                        Il s'agissait d'une application Web qui permetait au commerciaux d'assurer un meilleur suivi des
-                        visites
-                        réalisées auprès des distributeurs, élaborer une meilleure démarche de
+                        en PHP. Il s'agissait d'une application Web qui permettait aux commerciaux d'assurer un meilleur
+                        suivi des visites réalisées auprès des distributeurs, élaborer une meilleure démarche de
                         communication et mieux répartir les budgets consacrés à l'activité de représentation.<br><br>
+
                         L'interface du site était conçue pour offrir aux utilisateurs une expérience utilisateur
-                        agréable et intuitive.
-                        Elle comprenait une page d'accueil,une page de connexion ainsi que des catégories clairement
-                        affichées pour faciliter la navigation.
+                        agréable et intuitive. Elle comprenait une page d'accueil, une page de connexion ainsi que des
+                        catégories clairement affichées pour faciliter la navigation.
                     </p>
                 </div>
                 <br>
@@ -59,12 +61,11 @@
                 <br>
                 <div class="BDD">
                     <h5><u>La base de données : </u></h5><br>
-                    <p>Pour créer et gérer les données de l'application, nous avons utilisé une base de données SQL.
-                        La modélisation de la base de données a été réalisée de manière à stocker les informations
-                        pertinentes pour chaque information,
-                        telles que les distributeurs, les commerciaux, ou encore les produits proposés. Nous avions un
-                        début de script de base de donnée,
-                        mais il nous a fallu l'améliorer
+                    <p>Pour créer et gérer les données de l'application, nous avons utilisé une base de données SQL. La
+                        modélisation de la base de données a été réalisée de manière à stocker les informations
+                        pertinentes pour chaque information, telles que les distributeurs, les commerciaux, ou encore
+                        les produits proposés. Nous avions un début de script de base de données, mais il nous a fallu
+                        l'améliorer.
                     </p>
                     <div class="row mb-8 d-flex justify-content-center">
                         <div class="col-md-4">
@@ -105,7 +106,7 @@
                             appelle des tickets.
                         </p>
                         <h6>Mes tickets : </h6>
-                        <p>Après la répartitons des fonctionalités, j'avais donc des tâches à réaliser : </p>
+                        <p>Après la répartition des fonctionnalités, j'avais donc des tâches à réaliser : </p>
                     </div>
                     <br>
                     <div class="tableauTaches">

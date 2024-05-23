@@ -7,7 +7,7 @@
             <img src="assets/img/Modals/Ecocert/Demande.png" class="img-fluid  h-100 w-100" alt="">
         </div>
         <div class="carousel-item">
-            <img src="assets/img/Modals/Ecocert/Recherche.png"class="img-fluid  h-100 w-100" alt="">
+            <img src="assets/img/Modals/Ecocert/Recherche.png" class="img-fluid  h-100 w-100" alt="">
         </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -19,10 +19,3 @@
         <span class="visually-hidden">Suivant</span>
     </button>
 </div>
-
-<style>
-    .divCarousel {
-        width: 55%; /* Définit la largeur du carrousel à 50% de la largeur du conteneur parent */
-        margin: auto; /* Centre le carrousel horizontalement */
-    }
-</style>

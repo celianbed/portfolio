@@ -48,9 +48,9 @@
                 <br>
                 <div class="BDD">
                     <h5><u>La base de données</u></h5><br>
-                    <p>Les données de WordPress était stocké dans une base de données MySQL en local.
-                        Il y a notamment les fichiers de configurations de wordpress ainsi que du site internet. Il sy'
-                        trouve aussi les différents login et mot de passe des utilisateurs.
+                    <p>Les données de WordPress étaient stockées dans une base de données MySQL en local. Il y a
+                        notamment les fichiers de configurations de WordPress ainsi que du site internet. Il s'y trouve
+                        aussi les différents login et mot de passe des utilisateurs.
                     </p>
                     <div class="row mb-8">
                         <div class="mt-4 ">
@@ -95,7 +95,7 @@
                         </a>
                     </div>
                     <div class="collapse" id="competences">
-                        <?php include 'Tableau/Ecocert/TableauCompetences.php'; ?>
+                        <?php include 'Tableau/Stardev/TableauCompetences.php'; ?>
                     </div>
                 </div>
             </div>

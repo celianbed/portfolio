@@ -47,21 +47,19 @@
                             reconnu pour son expertise sur les problématiques liées à l'agriculture biologique et à la
                             certification.
                         </li>
+                    </ul>
                 </div>
                 <br>
                 <div class="description">
                     <h5><u>Description du projet</u></h5><br>
                     <p>
 
-                        Cette application permet au différent agriculteur de consulter leurs parcelles et
+                        Cette application permet aux différents agriculteurs de consulter leurs parcelles et
                         d'éventuellement ajouter un traitement à celle-ci. Ils peuvent ajouter des traitements qui sont
-                        déja
-                        existant ou qui n'existent pas encore au niveau de leurs parcelles.<br>
-
-                        Pendant le dernier semestre de mon BTS, j'ai réalisé un dernier projet avec le langage Java mais
-                        sous Android. J'ai donc découvert pour la première fois le développement Andoid ainsi que son
-                        environnement. J'ai pu aussi découvrir l'IDE <i><b>Android Studio</b></i></b> qui est très
-                        puissant.
+                        déjà existants ou qui n'existent pas encore au niveau de leurs parcelles.
+                        Pendant le dernier semestre de mon BTS, j'ai réalisé un dernier projet avec le langage Java,
+                        mais sous Android. J'ai donc découvert pour la première fois le développement Android ainsi que
+                        son environnement. J'ai pu aussi découvrir l'IDE Android Studio qui est très puissant.
 
                     </p>
                 </div>
@@ -105,11 +103,10 @@
                     <h5><u>La gestion de projet</u></h5><br>
                     <p>Pour ce projet, je n'ai pas utilisé de "gestionnaire de versionning", comme il s'agit d'un projet
                         seul, j'ai tout gardé localement sur mon ordinateur.
-                        Quant à la gestion de projet, j'ai utilisé Trello pour m'organiser un minimum dans les taches
+                        Quant à la gestion de projet, j'ai utilisé Trello pour m'organiser un minimum dans les tâches
                         que j'ai
                         réalisées.</p>
                     <div class="img">
-                        <img class="mt-4" src="assets/img/Modals/Ecocert/BitBucket.png" style="width: 300px; height: 50px">
                         <img src="assets/img/Modals/Millenuit/MILLENUITTrello-Logo.png" style="width: 200px; height: 100px">
 
                     </div>
@@ -131,7 +128,7 @@
                         </a>
                     </div>
                     <div class="collapse" id="competences">
-                        <?php include 'Tableau/Ecocert/TableauCompetences.php'; ?>
+                        <?php include 'Tableau/Ecocert/traitement/TableauCompetences.php'; ?>
                     </div>
                 </div>
             </div>
